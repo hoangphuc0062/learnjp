@@ -1,0 +1,4178 @@
+[
+  {
+    "slug": "n5-bai-01",
+    "title": "Bài 01 · Giới thiệu bản thân",
+    "japaneseTitle": "第1課",
+    "description": "Nói tên, nghề và quốc tịch",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Nói tên, nghề và quốc tịch. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Nói tên, nghề và quốc tịch",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-student",
+        "expression": "学生",
+        "reading": "がくせい",
+        "meaning": "học sinh, sinh viên",
+        "illustration": 1,
+        "example": "わたしは学生です。",
+        "exampleMeaning": "Tôi là sinh viên.",
+        "audio": "/n5/audio/6ecb93a8793fc6e4.m4a",
+        "exampleAudio": "/n5/audio/0ce8978c8fe0ab0d.m4a"
+      },
+      {
+        "id": "n5-teacher",
+        "expression": "先生",
+        "reading": "せんせい",
+        "meaning": "giáo viên",
+        "illustration": 0,
+        "example": "先生は本を読みます。",
+        "exampleMeaning": "Giáo viên đọc sách.",
+        "audio": "/n5/audio/dacf3872be30e9ea.m4a",
+        "exampleAudio": "/n5/audio/d81e54f22c808640.m4a"
+      },
+      {
+        "id": "n5-doctor",
+        "expression": "医者",
+        "reading": "いしゃ",
+        "meaning": "bác sĩ",
+        "illustration": 2,
+        "example": "リンさんは医者です。",
+        "exampleMeaning": "Linh là bác sĩ.",
+        "audio": "/n5/audio/159e355a03f48265.m4a",
+        "exampleAudio": "/n5/audio/44987cd02325b866.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "N1 は N2 です",
+        "explanation": "は đánh dấu điều đang nói đến, đọc là wa; です kết thúc câu lịch sự. Danh từ đứng sau は cho biết người đó là ai.",
+        "example": "わたしは学生です。",
+        "translation": "Tôi là sinh viên.",
+        "pitfall": "Không đọc trợ từ は là ha. Không thêm さん sau tên của chính mình.",
+        "audio": "/n5/audio/0ce8978c8fe0ab0d.m4a"
+      },
+      {
+        "pattern": "N1 は N2 じゃありません／ですか",
+        "explanation": "じゃありません phủ định danh từ. Thêm か sau です để hỏi; đáp lại bằng thông tin đúng.",
+        "example": "リンさんは先生ですか。いいえ、先生じゃありません。",
+        "translation": "Linh là giáo viên à? Không, Linh không phải giáo viên.",
+        "pitfall": "Không dùng ません trực tiếp sau danh từ.",
+        "audio": "/n5/audio/82d1942d849aafc7.m4a"
+      },
+      {
+        "pattern": "も／の",
+        "explanation": "も thay は khi nói cũng có cùng đặc điểm. の nối danh từ: trường đại học の sinh viên. Đọc cụm từ từ danh từ cuối.",
+        "example": "リンさんも学生です。さくら大学の学生です。",
+        "translation": "Linh cũng là sinh viên. Là sinh viên Đại học Sakura.",
+        "pitfall": "も thay は, không viết はも.",
+        "audio": "/n5/audio/9127f7a71457ec1f.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "1-grammar-0",
+        "kind": "recall",
+        "prompt": "Điền trợ từ: わたし＿学生です。",
+        "answers": [
+          "は"
+        ],
+        "explanation": "は đánh dấu điều đang nói đến, đọc là wa; です kết thúc câu lịch sự. Danh từ đứng sau は cho biết người đó là ai. Không đọc trợ từ は là ha. Không thêm さん sau tên của chính mình."
+      },
+      {
+        "id": "1-grammar-1",
+        "kind": "recall",
+        "prompt": "Điền đuôi phủ định: 学生＿。",
+        "answers": [
+          "じゃありません",
+          "ではありません",
+          "じゃないです",
+          "ではないです"
+        ],
+        "explanation": "じゃありません phủ định danh từ. Thêm か sau です để hỏi; đáp lại bằng thông tin đúng. Không dùng ません trực tiếp sau danh từ."
+      },
+      {
+        "id": "1-grammar-2",
+        "kind": "recall",
+        "prompt": "Tôi cũng là sinh viên: わたし＿学生です。",
+        "answers": [
+          "も"
+        ],
+        "explanation": "も thay は khi nói cũng có cùng đặc điểm. の nối danh từ: trường đại học の sinh viên. Đọc cụm từ từ danh từ cuối. も thay は, không viết はも."
+      },
+      {
+        "id": "1-word-student",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “học sinh, sinh viên”.",
+        "answers": [
+          "学生",
+          "がくせい"
+        ],
+        "explanation": "学生（がくせい）: học sinh, sinh viên. わたしは学生です。 — Tôi là sinh viên.",
+        "illustration": 1
+      },
+      {
+        "id": "1-word-teacher",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “giáo viên”.",
+        "answers": [
+          "先生",
+          "せんせい"
+        ],
+        "explanation": "先生（せんせい）: giáo viên. 先生は本を読みます。 — Giáo viên đọc sách.",
+        "illustration": 0
+      },
+      {
+        "id": "1-word-doctor",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “bác sĩ”.",
+        "answers": [
+          "医者",
+          "いしゃ"
+        ],
+        "explanation": "医者（いしゃ）: bác sĩ. リンさんは医者です。 — Linh là bác sĩ.",
+        "illustration": 2
+      },
+      {
+        "id": "1-reading",
+        "kind": "reading",
+        "passage": "わたしはリンです。学生です。マイさんも学生です。",
+        "prompt": "Mai làm nghề gì?",
+        "choices": [
+          "Bác sĩ",
+          "Giáo viên",
+          "Sinh viên"
+        ],
+        "answers": [
+          "Sinh viên"
+        ],
+        "explanation": "も cho biết Mai cũng là sinh viên như Linh."
+      },
+      {
+        "id": "1-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): です / 学生 / わたし / は",
+        "answers": [
+          "わたしは学生です。"
+        ],
+        "explanation": "Đáp án mẫu: わたしは学生です。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "1-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/6ecb93a8793fc6e4.m4a",
+        "choices": [
+          "sách",
+          "trường học",
+          "đồng hồ",
+          "học sinh, sinh viên"
+        ],
+        "answers": [
+          "học sinh, sinh viên"
+        ],
+        "explanation": "学生（がくせい）: học sinh, sinh viên."
+      }
+    ],
+    "production": "Tự giới thiệu tên, quốc tịch và nghề bằng 3 câu.",
+    "source": "buoi6.pdf"
+  },
+  {
+    "slug": "n5-bai-02",
+    "title": "Bài 02 · Đồ vật quanh tôi",
+    "japaneseTitle": "第2課",
+    "description": "Chỉ đồ vật và nói của ai",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Chỉ đồ vật và nói của ai. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Chỉ đồ vật và nói của ai",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-book",
+        "expression": "本",
+        "reading": "ほん",
+        "meaning": "sách",
+        "illustration": 3,
+        "example": "これは本です。",
+        "exampleMeaning": "Đây là sách.",
+        "audio": "/n5/audio/d2815033823ea835.m4a",
+        "exampleAudio": "/n5/audio/1f1d9b21d576b775.m4a"
+      },
+      {
+        "id": "n5-umbrella",
+        "expression": "傘",
+        "reading": "かさ",
+        "meaning": "ô, dù",
+        "illustration": 4,
+        "example": "これはわたしの傘です。",
+        "exampleMeaning": "Đây là ô của tôi.",
+        "audio": "/n5/audio/34edf5f90cac983f.m4a",
+        "exampleAudio": "/n5/audio/79447c03b9821beb.m4a"
+      },
+      {
+        "id": "n5-watch",
+        "expression": "時計",
+        "reading": "とけい",
+        "meaning": "đồng hồ",
+        "illustration": 5,
+        "example": "この時計はわたしのです。",
+        "exampleMeaning": "Đồng hồ này của tôi.",
+        "audio": "/n5/audio/e50d7153389eec5d.m4a",
+        "exampleAudio": "/n5/audio/22f40f266c59728d.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "これ／それ／あれ",
+        "explanation": "これ là vật gần người nói; それ gần người nghe; あれ xa cả hai. Khi đổi người nói, cách gọi có thể đổi.",
+        "example": "これは本です。",
+        "translation": "Đây là sách.",
+        "pitfall": "これ đứng độc lập; この phải có danh từ ngay sau.",
+        "audio": "/n5/audio/1f1d9b21d576b775.m4a"
+      },
+      {
+        "pattern": "この N／だれの N",
+        "explanation": "この・その・あの đứng trước danh từ. だれの hỏi người sở hữu; có thể lược danh từ đã rõ.",
+        "example": "この本はだれのですか。わたしのです。",
+        "translation": "Quyển sách này của ai? Của tôi.",
+        "pitfall": "Không viết このは本です.",
+        "audio": "/n5/audio/333af3637f0120e9.m4a"
+      },
+      {
+        "pattern": "N1 ですか、N2 ですか",
+        "explanation": "Câu hỏi lựa chọn yêu cầu chọn một phương án, không chỉ nói có hoặc không.",
+        "example": "これは本ですか、ノートですか。本です。",
+        "translation": "Đây là sách hay vở? Là sách.",
+        "pitfall": "は い không cho biết bạn chọn món nào.",
+        "audio": "/n5/audio/b5b7c8e6e62cd2a5.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "2-grammar-0",
+        "kind": "recall",
+        "prompt": "Bạn cầm sách trong tay: ＿は本です。",
+        "answers": [
+          "これ"
+        ],
+        "explanation": "これ là vật gần người nói; それ gần người nghe; あれ xa cả hai. Khi đổi người nói, cách gọi có thể đổi. これ đứng độc lập; この phải có danh từ ngay sau."
+      },
+      {
+        "id": "2-grammar-1",
+        "kind": "recall",
+        "prompt": "Quyển sách này: ＿本",
+        "answers": [
+          "この"
+        ],
+        "explanation": "この・その・あの đứng trước danh từ. だれの hỏi người sở hữu; có thể lược danh từ đã rõ. Không viết このは本です."
+      },
+      {
+        "id": "2-grammar-2",
+        "kind": "recall",
+        "prompt": "Hỏi chủ nhân: このかさは＿のですか。",
+        "answers": [
+          "だれ"
+        ],
+        "explanation": "Câu hỏi lựa chọn yêu cầu chọn một phương án, không chỉ nói có hoặc không. は い không cho biết bạn chọn món nào."
+      },
+      {
+        "id": "2-word-book",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “sách”.",
+        "answers": [
+          "本",
+          "ほん"
+        ],
+        "explanation": "本（ほん）: sách. これは本です。 — Đây là sách.",
+        "illustration": 3
+      },
+      {
+        "id": "2-word-umbrella",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “ô, dù”.",
+        "answers": [
+          "傘",
+          "かさ"
+        ],
+        "explanation": "傘（かさ）: ô, dù. これはわたしの傘です。 — Đây là ô của tôi.",
+        "illustration": 4
+      },
+      {
+        "id": "2-word-watch",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “đồng hồ”.",
+        "answers": [
+          "時計",
+          "とけい"
+        ],
+        "explanation": "時計（とけい）: đồng hồ. この時計はわたしのです。 — Đồng hồ này của tôi.",
+        "illustration": 5
+      },
+      {
+        "id": "2-reading",
+        "kind": "reading",
+        "passage": "これはわたしの本です。そのかさはマイさんのです。",
+        "prompt": "Chiếc ô của ai?",
+        "choices": [
+          "Giáo viên",
+          "Mai",
+          "Người nói"
+        ],
+        "answers": [
+          "Mai"
+        ],
+        "explanation": "そのかさ đi cùng マイさんの: ô của Mai."
+      },
+      {
+        "id": "2-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): 本 / は / これ / です",
+        "answers": [
+          "これは本です。"
+        ],
+        "explanation": "Đáp án mẫu: これは本です。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "2-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/d2815033823ea835.m4a",
+        "choices": [
+          "trường học",
+          "đồng hồ",
+          "sách",
+          "học sinh, sinh viên"
+        ],
+        "answers": [
+          "sách"
+        ],
+        "explanation": "本（ほん）: sách."
+      }
+    ],
+    "production": "Chọn 3 đồ vật thật và nói tên, vị trí, chủ nhân.",
+    "source": "buoi7.pdf"
+  },
+  {
+    "slug": "n5-bai-03",
+    "title": "Bài 03 · Địa điểm và mua sắm",
+    "japaneseTitle": "第3課",
+    "description": "Hỏi ở đâu và giá bao nhiêu",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Hỏi ở đâu và giá bao nhiêu. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Hỏi ở đâu và giá bao nhiêu",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-school",
+        "expression": "学校",
+        "reading": "がっこう",
+        "meaning": "trường học",
+        "illustration": 6,
+        "example": "学校へ行きます。",
+        "exampleMeaning": "Tôi đến trường.",
+        "audio": "/n5/audio/95ec5cbb2da56780.m4a",
+        "exampleAudio": "/n5/audio/716938e17fa5c3dc.m4a"
+      },
+      {
+        "id": "n5-hospital",
+        "expression": "病院",
+        "reading": "びょういん",
+        "meaning": "bệnh viện",
+        "illustration": 7,
+        "example": "病院はあそこです。",
+        "exampleMeaning": "Bệnh viện ở đằng kia.",
+        "audio": "/n5/audio/001ba7ef732eea56.m4a",
+        "exampleAudio": "/n5/audio/a1bb7af63f9bed5d.m4a"
+      },
+      {
+        "id": "n5-book",
+        "expression": "本",
+        "reading": "ほん",
+        "meaning": "sách",
+        "illustration": 3,
+        "example": "これは本です。",
+        "exampleMeaning": "Đây là sách.",
+        "audio": "/n5/audio/d2815033823ea835.m4a",
+        "exampleAudio": "/n5/audio/1f1d9b21d576b775.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "ここ／そこ／あそこ／どこ",
+        "explanation": "Dùng để chỉ nơi chốn. どこ hỏi ở đâu; trả lời bằng địa điểm cụ thể.",
+        "example": "学校はあそこです。",
+        "translation": "Trường ở đằng kia.",
+        "pitfall": "これ chỉ vật; ここ chỉ nơi.",
+        "audio": "/n5/audio/1bbd9ab596feb92c.m4a"
+      },
+      {
+        "pattern": "N はいくらですか",
+        "explanation": "いくら hỏi giá. Ghép số với 円; 300 đọc さんびゃく, 600 ろっぴゃく, 800 はっぴゃく.",
+        "example": "この本は五百円です。",
+        "translation": "Cuốn sách này giá 500 yên.",
+        "pitfall": "Đừng nhầm いくら với いくつ hỏi số lượng.",
+        "audio": "/n5/audio/22d025c800647e3a.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "3-grammar-0",
+        "kind": "recall",
+        "prompt": "Hỏi bệnh viện ở đâu: 病院は＿ですか。",
+        "answers": [
+          "どこ"
+        ],
+        "explanation": "Dùng để chỉ nơi chốn. どこ hỏi ở đâu; trả lời bằng địa điểm cụ thể. これ chỉ vật; ここ chỉ nơi."
+      },
+      {
+        "id": "3-grammar-1",
+        "kind": "recall",
+        "prompt": "Hỏi giá sách: この本は＿ですか。",
+        "answers": [
+          "いくら"
+        ],
+        "explanation": "いくら hỏi giá. Ghép số với 円; 300 đọc さんびゃく, 600 ろっぴゃく, 800 はっぴゃく. Đừng nhầm いくら với いくつ hỏi số lượng."
+      },
+      {
+        "id": "3-word-school",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “trường học”.",
+        "answers": [
+          "学校",
+          "がっこう"
+        ],
+        "explanation": "学校（がっこう）: trường học. 学校へ行きます。 — Tôi đến trường.",
+        "illustration": 6
+      },
+      {
+        "id": "3-word-hospital",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “bệnh viện”.",
+        "answers": [
+          "病院",
+          "びょういん"
+        ],
+        "explanation": "病院（びょういん）: bệnh viện. 病院はあそこです。 — Bệnh viện ở đằng kia.",
+        "illustration": 7
+      },
+      {
+        "id": "3-word-book",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “sách”.",
+        "answers": [
+          "本",
+          "ほん"
+        ],
+        "explanation": "本（ほん）: sách. これは本です。 — Đây là sách.",
+        "illustration": 3
+      },
+      {
+        "id": "3-reading",
+        "kind": "reading",
+        "passage": "本は五百円です。かさは千円です。",
+        "prompt": "Cuốn sách giá bao nhiêu?",
+        "choices": [
+          "500 yên",
+          "1.000 yên",
+          "1.500 yên"
+        ],
+        "answers": [
+          "500 yên"
+        ],
+        "explanation": "五百円 là 500 yên; giá ô là thông tin gây nhiễu."
+      },
+      {
+        "id": "3-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): あそこ / 学校 / です / は",
+        "answers": [
+          "学校はあそこです。"
+        ],
+        "explanation": "Đáp án mẫu: 学校はあそこです。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "3-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/95ec5cbb2da56780.m4a",
+        "choices": [
+          "đồng hồ",
+          "trường học",
+          "học sinh, sinh viên",
+          "sách"
+        ],
+        "answers": [
+          "trường học"
+        ],
+        "explanation": "学校（がっこう）: trường học."
+      }
+    ],
+    "production": "Đóng vai khách mua sách: chào, hỏi giá, cảm ơn.",
+    "source": "buoi8.pdf"
+  },
+  {
+    "slug": "n5-bai-04",
+    "title": "Bài 04 · Thời gian và sinh hoạt",
+    "japaneseTitle": "第4課",
+    "description": "Nói giờ và hành động hiện tại, quá khứ",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Nói giờ và hành động hiện tại, quá khứ. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Nói giờ và hành động hiện tại, quá khứ",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-watch",
+        "expression": "時計",
+        "reading": "とけい",
+        "meaning": "đồng hồ",
+        "illustration": 5,
+        "example": "この時計はわたしのです。",
+        "exampleMeaning": "Đồng hồ này của tôi.",
+        "audio": "/n5/audio/e50d7153389eec5d.m4a",
+        "exampleAudio": "/n5/audio/22f40f266c59728d.m4a"
+      },
+      {
+        "id": "n5-sleep",
+        "expression": "寝ます",
+        "reading": "ねます",
+        "meaning": "ngủ, đi ngủ",
+        "illustration": 29,
+        "example": "十時に寝ます。",
+        "exampleMeaning": "Tôi đi ngủ lúc 10 giờ.",
+        "audio": "/n5/audio/5be8c90a89cd490a.m4a",
+        "exampleAudio": "/n5/audio/d7b4662303a82029.m4a"
+      },
+      {
+        "id": "n5-write",
+        "expression": "書きます",
+        "reading": "かきます",
+        "meaning": "viết",
+        "illustration": 32,
+        "example": "日本語で書きます。",
+        "exampleMeaning": "Tôi viết bằng tiếng Nhật.",
+        "audio": "/n5/audio/6e6b6201a7ae85b2.m4a",
+        "exampleAudio": "/n5/audio/c16230328110f85b.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "Vます／Vません／Vました／Vませんでした",
+        "explanation": "ます là hiện tại hoặc tương lai; ました là đã làm. Hai dạng có ません phủ định. Chọn dạng theo mốc thời gian.",
+        "example": "きのう勉強しました。",
+        "translation": "Hôm qua tôi đã học.",
+        "pitfall": "Quá khứ phủ định là ませんでした, không phải ましたません.",
+        "audio": "/n5/audio/02a961e742b8e2fd.m4a"
+      },
+      {
+        "pattern": "時間に／から～まで",
+        "explanation": "に đánh dấu giờ cụ thể. から là từ, まで là đến. きょう・あした・毎日 thường không cần に.",
+        "example": "七時に起きます。九時から五時まで働きます。",
+        "translation": "Tôi dậy lúc 7 giờ. Làm từ 9 đến 5 giờ.",
+        "pitfall": "4 giờ よじ; 7 giờ しちじ; 9 giờ くじ.",
+        "audio": "/n5/audio/72526193278692a8.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "4-grammar-0",
+        "kind": "recall",
+        "prompt": "Quá khứ của 勉強します: 勉強＿。",
+        "answers": [
+          "しました"
+        ],
+        "explanation": "ます là hiện tại hoặc tương lai; ました là đã làm. Hai dạng có ません phủ định. Chọn dạng theo mốc thời gian. Quá khứ phủ định là ませんでした, không phải ましたません."
+      },
+      {
+        "id": "4-grammar-1",
+        "kind": "recall",
+        "prompt": "Dậy lúc 7 giờ: 七時＿起きます。",
+        "answers": [
+          "に"
+        ],
+        "explanation": "に đánh dấu giờ cụ thể. から là từ, まで là đến. きょう・あした・毎日 thường không cần に. 4 giờ よじ; 7 giờ しちじ; 9 giờ くじ."
+      },
+      {
+        "id": "4-word-watch",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “đồng hồ”.",
+        "answers": [
+          "時計",
+          "とけい"
+        ],
+        "explanation": "時計（とけい）: đồng hồ. この時計はわたしのです。 — Đồng hồ này của tôi.",
+        "illustration": 5
+      },
+      {
+        "id": "4-word-sleep",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “ngủ, đi ngủ”.",
+        "answers": [
+          "寝ます",
+          "ねます"
+        ],
+        "explanation": "寝ます（ねます）: ngủ, đi ngủ. 十時に寝ます。 — Tôi đi ngủ lúc 10 giờ.",
+        "illustration": 29
+      },
+      {
+        "id": "4-word-write",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “viết”.",
+        "answers": [
+          "書きます",
+          "かきます"
+        ],
+        "explanation": "書きます（かきます）: viết. 日本語で書きます。 — Tôi viết bằng tiếng Nhật.",
+        "illustration": 32
+      },
+      {
+        "id": "4-reading",
+        "kind": "reading",
+        "passage": "毎日七時に起きます。きのうは八時に起きました。",
+        "prompt": "Hôm qua người này dậy lúc mấy giờ?",
+        "choices": [
+          "7 giờ",
+          "Mỗi ngày 8 giờ",
+          "8 giờ"
+        ],
+        "answers": [
+          "8 giờ"
+        ],
+        "explanation": "きのう và 起きました đánh dấu sự việc hôm qua; khác thói quen 毎日."
+      },
+      {
+        "id": "4-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): 起きます / 七時 / に",
+        "answers": [
+          "七時に起きます。"
+        ],
+        "explanation": "Đáp án mẫu: 七時に起きます。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "4-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/e50d7153389eec5d.m4a",
+        "choices": [
+          "đồng hồ",
+          "học sinh, sinh viên",
+          "sách",
+          "trường học"
+        ],
+        "answers": [
+          "đồng hồ"
+        ],
+        "explanation": "時計（とけい）: đồng hồ."
+      }
+    ],
+    "production": "Kể giờ thức dậy, giờ học và một việc đã làm hôm qua.",
+    "source": "buoi9.pdf"
+  },
+  {
+    "slug": "n5-bai-05",
+    "title": "Bài 05 · Đi đâu, bằng gì, với ai",
+    "japaneseTitle": "第5課",
+    "description": "Kể một chuyến đi",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Kể một chuyến đi. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Kể một chuyến đi",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-train",
+        "expression": "電車",
+        "reading": "でんしゃ",
+        "meaning": "tàu điện",
+        "illustration": 8,
+        "example": "電車で行きます。",
+        "exampleMeaning": "Tôi đi bằng tàu điện.",
+        "audio": "/n5/audio/e79bee27152be835.m4a",
+        "exampleAudio": "/n5/audio/74f0d6182877d746.m4a"
+      },
+      {
+        "id": "n5-bicycle",
+        "expression": "自転車",
+        "reading": "じてんしゃ",
+        "meaning": "xe đạp",
+        "illustration": 9,
+        "example": "自転車で学校へ行きます。",
+        "exampleMeaning": "Tôi đi xe đạp đến trường.",
+        "audio": "/n5/audio/2be752d840257f3c.m4a",
+        "exampleAudio": "/n5/audio/fd3ceb704f34bc39.m4a"
+      },
+      {
+        "id": "n5-school",
+        "expression": "学校",
+        "reading": "がっこう",
+        "meaning": "trường học",
+        "illustration": 6,
+        "example": "学校へ行きます。",
+        "exampleMeaning": "Tôi đến trường.",
+        "audio": "/n5/audio/95ec5cbb2da56780.m4a",
+        "exampleAudio": "/n5/audio/716938e17fa5c3dc.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "場所へ行きます／来ます／帰ります",
+        "explanation": "へ đọc e, đánh dấu hướng đến. 行きます đi, 来ます đến phía điểm đang nói, 帰ります trở về. に cũng dùng với đích đến.",
+        "example": "学校へ行きます。",
+        "translation": "Tôi đi đến trường.",
+        "pitfall": "へ không đánh dấu phương tiện.",
+        "audio": "/n5/audio/716938e17fa5c3dc.m4a"
+      },
+      {
+        "pattern": "乗り物で／人と",
+        "explanation": "で đánh dấu phương tiện; と người cùng đi. Đi bộ là 歩いて; một mình là 一人で.",
+        "example": "友達と電車で行きます。",
+        "translation": "Tôi đi tàu cùng bạn.",
+        "pitfall": "Không nói 歩いてで.",
+        "audio": "/n5/audio/4bf2156e739edb17.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "5-grammar-0",
+        "kind": "recall",
+        "prompt": "Đi tới trường: 学校＿行きます。",
+        "answers": [
+          "へ",
+          "に"
+        ],
+        "explanation": "へ đọc e, đánh dấu hướng đến. 行きます đi, 来ます đến phía điểm đang nói, 帰ります trở về. に cũng dùng với đích đến. へ không đánh dấu phương tiện."
+      },
+      {
+        "id": "5-grammar-1",
+        "kind": "recall",
+        "prompt": "Đi bằng tàu: 電車＿行きます。",
+        "answers": [
+          "で"
+        ],
+        "explanation": "で đánh dấu phương tiện; と người cùng đi. Đi bộ là 歩いて; một mình là 一人で. Không nói 歩いてで."
+      },
+      {
+        "id": "5-word-train",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “tàu điện”.",
+        "answers": [
+          "電車",
+          "でんしゃ"
+        ],
+        "explanation": "電車（でんしゃ）: tàu điện. 電車で行きます。 — Tôi đi bằng tàu điện.",
+        "illustration": 8
+      },
+      {
+        "id": "5-word-bicycle",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “xe đạp”.",
+        "answers": [
+          "自転車",
+          "じてんしゃ"
+        ],
+        "explanation": "自転車（じてんしゃ）: xe đạp. 自転車で学校へ行きます。 — Tôi đi xe đạp đến trường.",
+        "illustration": 9
+      },
+      {
+        "id": "5-word-school",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “trường học”.",
+        "answers": [
+          "学校",
+          "がっこう"
+        ],
+        "explanation": "学校（がっこう）: trường học. 学校へ行きます。 — Tôi đến trường.",
+        "illustration": 6
+      },
+      {
+        "id": "5-reading",
+        "kind": "reading",
+        "passage": "きのう友達と電車で学校へ行きました。",
+        "prompt": "Người này đến trường bằng gì?",
+        "choices": [
+          "Đi bộ",
+          "Tàu điện",
+          "Xe đạp"
+        ],
+        "answers": [
+          "Tàu điện"
+        ],
+        "explanation": "電車で chỉ phương tiện; 友達と chỉ người cùng đi."
+      },
+      {
+        "id": "5-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): 行きます / 電車 / 学校 / へ / で",
+        "answers": [
+          "電車で学校へ行きます。",
+          "学校へ電車で行きます。"
+        ],
+        "explanation": "Đáp án mẫu: 電車で学校へ行きます。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "5-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/e79bee27152be835.m4a",
+        "choices": [
+          "học sinh, sinh viên",
+          "sách",
+          "trường học",
+          "tàu điện"
+        ],
+        "answers": [
+          "tàu điện"
+        ],
+        "explanation": "電車（でんしゃ）: tàu điện."
+      }
+    ],
+    "production": "Kể chuyến đi thật: thời gian, đích đến, phương tiện, người cùng đi.",
+    "source": "buoi10.pdf"
+  },
+  {
+    "slug": "n5-bai-06",
+    "title": "Bài 06 · Ăn uống và hoạt động",
+    "japaneseTitle": "第6課",
+    "description": "Nói làm gì, ở đâu và rủ bạn",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Nói làm gì, ở đâu và rủ bạn. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Nói làm gì, ở đâu và rủ bạn",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-bread",
+        "expression": "パン",
+        "reading": "パン",
+        "meaning": "bánh mì",
+        "illustration": 10,
+        "example": "パンを食べます。",
+        "exampleMeaning": "Tôi ăn bánh mì.",
+        "audio": "/n5/audio/433c68371a3d5588.m4a",
+        "exampleAudio": "/n5/audio/b54249200c5e44e1.m4a"
+      },
+      {
+        "id": "n5-water",
+        "expression": "水",
+        "reading": "みず",
+        "meaning": "nước",
+        "illustration": 11,
+        "example": "水を飲みます。",
+        "exampleMeaning": "Tôi uống nước.",
+        "audio": "/n5/audio/986430368256f18d.m4a",
+        "exampleAudio": "/n5/audio/70a6096abed12ad7.m4a"
+      },
+      {
+        "id": "n5-coffee",
+        "expression": "コーヒー",
+        "reading": "コーヒー",
+        "meaning": "cà phê",
+        "illustration": 23,
+        "example": "コーヒーを飲みます。",
+        "exampleMeaning": "Tôi uống cà phê.",
+        "audio": "/n5/audio/bb782cf87667ea09.m4a",
+        "exampleAudio": "/n5/audio/de5795507d3eb44b.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "Nを V／場所で V",
+        "explanation": "を đọc o, đánh dấu đối tượng của hành động. で đánh dấu nơi hành động diễn ra.",
+        "example": "学校でパンを食べます。",
+        "translation": "Tôi ăn bánh mì ở trường.",
+        "pitfall": "で chỉ nơi làm việc; に chỉ nơi tồn tại hoặc thời điểm trong các mẫu khác.",
+        "audio": "/n5/audio/dedb0b3d5fbf80b9.m4a"
+      },
+      {
+        "pattern": "Vませんか／Vましょう",
+        "explanation": "ませんか là lời mời nhẹ nhàng, dù mang hình thức phủ định. ましょう là cùng làm nhé.",
+        "example": "いっしょにコーヒーを飲みませんか。",
+        "translation": "Bạn uống cà phê cùng tôi nhé?",
+        "pitfall": "Lời mời khác câu hỏi có làm hay không; đọc cả ngữ cảnh.",
+        "audio": "/n5/audio/60e98f6e389317ad.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "6-grammar-0",
+        "kind": "recall",
+        "prompt": "Ăn bánh mì: パン＿食べます。",
+        "answers": [
+          "を"
+        ],
+        "explanation": "を đọc o, đánh dấu đối tượng của hành động. で đánh dấu nơi hành động diễn ra. で chỉ nơi làm việc; に chỉ nơi tồn tại hoặc thời điểm trong các mẫu khác."
+      },
+      {
+        "id": "6-grammar-1",
+        "kind": "recall",
+        "prompt": "Cùng uống nhé: 飲み＿。",
+        "answers": [
+          "ましょう"
+        ],
+        "explanation": "ませんか là lời mời nhẹ nhàng, dù mang hình thức phủ định. ましょう là cùng làm nhé. Lời mời khác câu hỏi có làm hay không; đọc cả ngữ cảnh."
+      },
+      {
+        "id": "6-word-bread",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “bánh mì”.",
+        "answers": [
+          "パン"
+        ],
+        "explanation": "パン（パン）: bánh mì. パンを食べます。 — Tôi ăn bánh mì.",
+        "illustration": 10
+      },
+      {
+        "id": "6-word-water",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “nước”.",
+        "answers": [
+          "水",
+          "みず"
+        ],
+        "explanation": "水（みず）: nước. 水を飲みます。 — Tôi uống nước.",
+        "illustration": 11
+      },
+      {
+        "id": "6-word-coffee",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “cà phê”.",
+        "answers": [
+          "コーヒー"
+        ],
+        "explanation": "コーヒー（コーヒー）: cà phê. コーヒーを飲みます。 — Tôi uống cà phê.",
+        "illustration": 23
+      },
+      {
+        "id": "6-reading",
+        "kind": "reading",
+        "passage": "きのう学校でパンを食べました。水も飲みました。",
+        "prompt": "Người này ăn ở đâu?",
+        "choices": [
+          "Ở trường",
+          "Ở nhà",
+          "Trên tàu"
+        ],
+        "answers": [
+          "Ở trường"
+        ],
+        "explanation": "学校で đánh dấu nơi ăn; パンを là món ăn."
+      },
+      {
+        "id": "6-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): 食べます / を / パン",
+        "answers": [
+          "パンを食べます。"
+        ],
+        "explanation": "Đáp án mẫu: パンを食べます。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "6-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/433c68371a3d5588.m4a",
+        "choices": [
+          "sách",
+          "trường học",
+          "bánh mì",
+          "học sinh, sinh viên"
+        ],
+        "answers": [
+          "bánh mì"
+        ],
+        "explanation": "パン（パン）: bánh mì."
+      }
+    ],
+    "production": "Rủ bạn ăn sáng; nói món ăn và nơi ăn.",
+    "source": "buoi12.pdf"
+  },
+  {
+    "slug": "n5-bai-07",
+    "title": "Bài 07 · Công cụ và cho nhận",
+    "japaneseTitle": "第7課",
+    "description": "Nói dùng gì, cho ai và nhận từ ai",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Nói dùng gì, cho ai và nhận từ ai. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Nói dùng gì, cho ai và nhận từ ai",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-flowers",
+        "expression": "花",
+        "reading": "はな",
+        "meaning": "hoa",
+        "illustration": 12,
+        "example": "母に花をあげます。",
+        "exampleMeaning": "Tôi tặng hoa cho mẹ.",
+        "audio": "/n5/audio/6b06f159af5ff740.m4a",
+        "exampleAudio": "/n5/audio/39b441dfe79e2878.m4a"
+      },
+      {
+        "id": "n5-gift",
+        "expression": "プレゼント",
+        "reading": "プレゼント",
+        "meaning": "quà tặng",
+        "illustration": 13,
+        "example": "友達にプレゼントをあげます。",
+        "exampleMeaning": "Tôi tặng quà cho bạn.",
+        "audio": "/n5/audio/d4db811228adab15.m4a",
+        "exampleAudio": "/n5/audio/79cb2153eb738aa2.m4a"
+      },
+      {
+        "id": "n5-write",
+        "expression": "書きます",
+        "reading": "かきます",
+        "meaning": "viết",
+        "illustration": 32,
+        "example": "日本語で書きます。",
+        "exampleMeaning": "Tôi viết bằng tiếng Nhật.",
+        "audio": "/n5/audio/6e6b6201a7ae85b2.m4a",
+        "exampleAudio": "/n5/audio/c16230328110f85b.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "道具・言語で",
+        "explanation": "で còn chỉ công cụ hoặc ngôn ngữ. Hỏi 何で để biết dùng gì; ngữ cảnh giúp phân biệt phương tiện.",
+        "example": "日本語で手紙を書きます。",
+        "translation": "Tôi viết thư bằng tiếng Nhật.",
+        "pitfall": "Không dùng を sau ngôn ngữ khi nói viết bằng ngôn ngữ đó.",
+        "audio": "/n5/audio/8624245d23016afc.m4a"
+      },
+      {
+        "pattern": "人にあげます／人にもらいます",
+        "explanation": "あげます nhìn từ phía người cho, もらいます nhìn từ phía người nhận. に đánh dấu người nhận với あげます và người cho với もらいます; から cũng chỉ nguồn nhận.",
+        "example": "友達に花をあげます。",
+        "translation": "Tôi tặng hoa cho bạn.",
+        "pitfall": "Luôn xác định ai là chủ ngữ và món quà đi hướng nào.",
+        "audio": "/n5/audio/7c43b49562070dae.m4a"
+      },
+      {
+        "pattern": "もう Vました",
+        "explanation": "もう hỏi hoặc nói việc đã xong. Chưa làm thì まだです hoặc まだVていません khi đã học thể て.",
+        "example": "もう本を読みました。",
+        "translation": "Tôi đã đọc sách rồi.",
+        "pitfall": "Chưa xong không đồng nghĩa với sẽ không làm.",
+        "audio": "/n5/audio/1f7cdfea5d964179.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "7-grammar-0",
+        "kind": "recall",
+        "prompt": "Viết bằng tiếng Nhật: 日本語＿書きます。",
+        "answers": [
+          "で"
+        ],
+        "explanation": "で còn chỉ công cụ hoặc ngôn ngữ. Hỏi 何で để biết dùng gì; ngữ cảnh giúp phân biệt phương tiện. Không dùng を sau ngôn ngữ khi nói viết bằng ngôn ngữ đó."
+      },
+      {
+        "id": "7-grammar-1",
+        "kind": "recall",
+        "prompt": "Tặng hoa cho bạn: 友達＿花をあげます。",
+        "answers": [
+          "に"
+        ],
+        "explanation": "あげます nhìn từ phía người cho, もらいます nhìn từ phía người nhận. に đánh dấu người nhận với あげます và người cho với もらいます; から cũng chỉ nguồn nhận. Luôn xác định ai là chủ ngữ và món quà đi hướng nào."
+      },
+      {
+        "id": "7-grammar-2",
+        "kind": "recall",
+        "prompt": "Đã đọc rồi: ＿本を読みました。",
+        "answers": [
+          "もう"
+        ],
+        "explanation": "もう hỏi hoặc nói việc đã xong. Chưa làm thì まだです hoặc まだVていません khi đã học thể て. Chưa xong không đồng nghĩa với sẽ không làm."
+      },
+      {
+        "id": "7-word-flowers",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “hoa”.",
+        "answers": [
+          "花",
+          "はな"
+        ],
+        "explanation": "花（はな）: hoa. 母に花をあげます。 — Tôi tặng hoa cho mẹ.",
+        "illustration": 12
+      },
+      {
+        "id": "7-word-gift",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “quà tặng”.",
+        "answers": [
+          "プレゼント"
+        ],
+        "explanation": "プレゼント（プレゼント）: quà tặng. 友達にプレゼントをあげます。 — Tôi tặng quà cho bạn.",
+        "illustration": 13
+      },
+      {
+        "id": "7-word-write",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “viết”.",
+        "answers": [
+          "書きます",
+          "かきます"
+        ],
+        "explanation": "書きます（かきます）: viết. 日本語で書きます。 — Tôi viết bằng tiếng Nhật.",
+        "illustration": 32
+      },
+      {
+        "id": "7-reading",
+        "kind": "reading",
+        "passage": "母に花をあげました。母に本をもらいました。",
+        "prompt": "Người này nhận món gì từ mẹ?",
+        "choices": [
+          "Hoa",
+          "Đồng hồ",
+          "Sách"
+        ],
+        "answers": [
+          "Sách"
+        ],
+        "explanation": "もらいました nhìn từ phía người nhận; hoa là món người này tặng."
+      },
+      {
+        "id": "7-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): 花 / 母 / あげます / に / を",
+        "answers": [
+          "母に花をあげます。",
+          "花を母にあげます。"
+        ],
+        "explanation": "Đáp án mẫu: 母に花をあげます。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "7-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/6b06f159af5ff740.m4a",
+        "choices": [
+          "trường học",
+          "hoa",
+          "học sinh, sinh viên",
+          "sách"
+        ],
+        "answers": [
+          "hoa"
+        ],
+        "explanation": "花（はな）: hoa."
+      }
+    ],
+    "production": "Kể một món quà đã tặng và một món đã nhận.",
+    "source": "buoi13.pdf"
+  },
+  {
+    "slug": "n5-bai-08",
+    "title": "Bài 08 · Miêu tả bằng tính từ",
+    "japaneseTitle": "第8課",
+    "description": "Phân biệt tính từ い và な",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Phân biệt tính từ い và な. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Phân biệt tính từ い và な",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-hot",
+        "expression": "暑い",
+        "reading": "あつい",
+        "meaning": "nóng (thời tiết)",
+        "illustration": 16,
+        "example": "きょうは暑いです。",
+        "exampleMeaning": "Hôm nay trời nóng.",
+        "audio": "/n5/audio/c8edcb1c3c69e64e.m4a",
+        "exampleAudio": "/n5/audio/c83e25f6f9fe3215.m4a"
+      },
+      {
+        "id": "n5-cold",
+        "expression": "寒い",
+        "reading": "さむい",
+        "meaning": "lạnh (thời tiết)",
+        "illustration": 15,
+        "example": "きょうは寒いです。",
+        "exampleMeaning": "Hôm nay trời lạnh.",
+        "audio": "/n5/audio/94fa622957a3ba2a.m4a",
+        "exampleAudio": "/n5/audio/7f9bb9961e8b0e31.m4a"
+      },
+      {
+        "id": "n5-book",
+        "expression": "本",
+        "reading": "ほん",
+        "meaning": "sách",
+        "illustration": 3,
+        "example": "これは本です。",
+        "exampleMeaning": "Đây là sách.",
+        "audio": "/n5/audio/d2815033823ea835.m4a",
+        "exampleAudio": "/n5/audio/1f1d9b21d576b775.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "い形容詞／な形容詞",
+        "explanation": "Tính từ い đứng trực tiếp trước danh từ; tính từ な thêm な trước danh từ. Khi kết thúc câu lịch sự, dùng です.",
+        "example": "新しい本です。静かな学校です。",
+        "translation": "Là sách mới. Là trường yên tĩnh.",
+        "pitfall": "きれい và きらい thuộc nhóm な dù kết thúc bằng い.",
+        "audio": "/n5/audio/07874f79c74e0a50.m4a"
+      },
+      {
+        "pattern": "～くないです／～じゃありません",
+        "explanation": "Tính từ い bỏ い thêm くないです; tính từ な dùng じゃありません. いい có gốc よい: よくない.",
+        "example": "この本は高くないです。",
+        "translation": "Cuốn sách này không đắt.",
+        "pitfall": "Không dùng 高いじゃありません.",
+        "audio": "/n5/audio/d533c51a911cad4c.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "8-grammar-0",
+        "kind": "recall",
+        "prompt": "Trường yên tĩnh: 静か＿学校",
+        "answers": [
+          "な"
+        ],
+        "explanation": "Tính từ い đứng trực tiếp trước danh từ; tính từ な thêm な trước danh từ. Khi kết thúc câu lịch sự, dùng です. きれい và きらい thuộc nhóm な dù kết thúc bằng い."
+      },
+      {
+        "id": "8-grammar-1",
+        "kind": "recall",
+        "prompt": "Phủ định 高い: 高＿です。",
+        "answers": [
+          "くない"
+        ],
+        "explanation": "Tính từ い bỏ い thêm くないです; tính từ な dùng じゃありません. いい có gốc よい: よくない. Không dùng 高いじゃありません."
+      },
+      {
+        "id": "8-word-hot",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “nóng (thời tiết)”.",
+        "answers": [
+          "暑い",
+          "あつい"
+        ],
+        "explanation": "暑い（あつい）: nóng (thời tiết). きょうは暑いです。 — Hôm nay trời nóng.",
+        "illustration": 16
+      },
+      {
+        "id": "8-word-cold",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “lạnh (thời tiết)”.",
+        "answers": [
+          "寒い",
+          "さむい"
+        ],
+        "explanation": "寒い（さむい）: lạnh (thời tiết). きょうは寒いです。 — Hôm nay trời lạnh.",
+        "illustration": 15
+      },
+      {
+        "id": "8-word-book",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “sách”.",
+        "answers": [
+          "本",
+          "ほん"
+        ],
+        "explanation": "本（ほん）: sách. これは本です。 — Đây là sách.",
+        "illustration": 3
+      },
+      {
+        "id": "8-reading",
+        "kind": "reading",
+        "passage": "この本は新しいです。でも、高くないです。",
+        "prompt": "Cuốn sách như thế nào?",
+        "choices": [
+          "Mới và đắt",
+          "Mới và không đắt",
+          "Cũ và đắt"
+        ],
+        "answers": [
+          "Mới và không đắt"
+        ],
+        "explanation": "新しい là mới; 高くない phủ định đắt."
+      },
+      {
+        "id": "8-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): 学校 / 静かな / です",
+        "answers": [
+          "静かな学校です。"
+        ],
+        "explanation": "Đáp án mẫu: 静かな学校です。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "8-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/c8edcb1c3c69e64e.m4a",
+        "choices": [
+          "nóng (thời tiết)",
+          "học sinh, sinh viên",
+          "sách",
+          "trường học"
+        ],
+        "answers": [
+          "nóng (thời tiết)"
+        ],
+        "explanation": "暑い（あつい）: nóng (thời tiết)."
+      }
+    ],
+    "production": "Miêu tả hai đồ vật bằng cả tính từ い và な.",
+    "source": "buoi14.pdf"
+  },
+  {
+    "slug": "n5-bai-09",
+    "title": "Bài 09 · Sở thích và lý do",
+    "japaneseTitle": "第9課",
+    "description": "Nói thích, hiểu và giải thích vì sao",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Nói thích, hiểu và giải thích vì sao. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Nói thích, hiểu và giải thích vì sao",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-coffee",
+        "expression": "コーヒー",
+        "reading": "コーヒー",
+        "meaning": "cà phê",
+        "illustration": 23,
+        "example": "コーヒーを飲みます。",
+        "exampleMeaning": "Tôi uống cà phê.",
+        "audio": "/n5/audio/bb782cf87667ea09.m4a",
+        "exampleAudio": "/n5/audio/de5795507d3eb44b.m4a"
+      },
+      {
+        "id": "n5-sing",
+        "expression": "歌います",
+        "reading": "うたいます",
+        "meaning": "hát",
+        "illustration": 28,
+        "example": "歌うことが好きです。",
+        "exampleMeaning": "Tôi thích hát.",
+        "audio": "/n5/audio/a688afb7caff3d33.m4a",
+        "exampleAudio": "/n5/audio/64d4797efba06cc5.m4a"
+      },
+      {
+        "id": "n5-book",
+        "expression": "本",
+        "reading": "ほん",
+        "meaning": "sách",
+        "illustration": 3,
+        "example": "これは本です。",
+        "exampleMeaning": "Đây là sách.",
+        "audio": "/n5/audio/d2815033823ea835.m4a",
+        "exampleAudio": "/n5/audio/1f1d9b21d576b775.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "Nが好きです／わかります",
+        "explanation": "が đánh dấu đối tượng sở thích hoặc điều hiểu trong các mẫu này. 好き là tính từ な.",
+        "example": "コーヒーが好きです。日本語がわかります。",
+        "translation": "Tôi thích cà phê. Tôi hiểu tiếng Nhật.",
+        "pitfall": "Trong mẫu Nが好きです không dùng を thay が.",
+        "audio": "/n5/audio/15d5a7c4d020f66f.m4a"
+      },
+      {
+        "pattern": "理由から、結果",
+        "explanation": "から nối lý do với kết quả; lý do đứng trước. どうして hỏi vì sao; có thể trả lời ～からです.",
+        "example": "忙しいですから、行きません。",
+        "translation": "Vì bận nên tôi không đi.",
+        "pitfall": "から ở đây là vì, khác từ điểm xuất phát.",
+        "audio": "/n5/audio/e760a1a77ef2300a.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "9-grammar-0",
+        "kind": "recall",
+        "prompt": "Thích cà phê: コーヒー＿好きです。",
+        "answers": [
+          "が"
+        ],
+        "explanation": "が đánh dấu đối tượng sở thích hoặc điều hiểu trong các mẫu này. 好き là tính từ な. Trong mẫu Nが好きです không dùng を thay が."
+      },
+      {
+        "id": "9-grammar-1",
+        "kind": "recall",
+        "prompt": "Vì bận: 忙しいです＿、行きません。",
+        "answers": [
+          "から"
+        ],
+        "explanation": "から nối lý do với kết quả; lý do đứng trước. どうして hỏi vì sao; có thể trả lời ～からです. から ở đây là vì, khác từ điểm xuất phát."
+      },
+      {
+        "id": "9-word-coffee",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “cà phê”.",
+        "answers": [
+          "コーヒー"
+        ],
+        "explanation": "コーヒー（コーヒー）: cà phê. コーヒーを飲みます。 — Tôi uống cà phê.",
+        "illustration": 23
+      },
+      {
+        "id": "9-word-sing",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “hát”.",
+        "answers": [
+          "歌います",
+          "うたいます"
+        ],
+        "explanation": "歌います（うたいます）: hát. 歌うことが好きです。 — Tôi thích hát.",
+        "illustration": 28
+      },
+      {
+        "id": "9-word-book",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “sách”.",
+        "answers": [
+          "本",
+          "ほん"
+        ],
+        "explanation": "本（ほん）: sách. これは本です。 — Đây là sách.",
+        "illustration": 3
+      },
+      {
+        "id": "9-reading",
+        "kind": "reading",
+        "passage": "コーヒーが好きです。でも、今晩は飲みません。寝ますから。",
+        "prompt": "Vì sao tối nay người này không uống cà phê?",
+        "choices": [
+          "Vì sẽ đi ngủ",
+          "Vì không thích cà phê",
+          "Vì không có tiền"
+        ],
+        "answers": [
+          "Vì sẽ đi ngủ"
+        ],
+        "explanation": "寝ますから nêu lý do, không phải không thích."
+      },
+      {
+        "id": "9-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): 好き / コーヒー / です / が",
+        "answers": [
+          "コーヒーが好きです。"
+        ],
+        "explanation": "Đáp án mẫu: コーヒーが好きです。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "9-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/bb782cf87667ea09.m4a",
+        "choices": [
+          "học sinh, sinh viên",
+          "sách",
+          "trường học",
+          "cà phê"
+        ],
+        "answers": [
+          "cà phê"
+        ],
+        "explanation": "コーヒー（コーヒー）: cà phê."
+      }
+    ],
+    "production": "Nói hai sở thích và một lý do không tham gia hoạt động.",
+    "source": "buoi15.pdf"
+  },
+  {
+    "slug": "n5-bai-10",
+    "title": "Bài 10 · Người và vật ở đâu",
+    "japaneseTitle": "第10課",
+    "description": "Dùng あります và います",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Dùng あります và います. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Dùng あります và います",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-cat",
+        "expression": "猫",
+        "reading": "ねこ",
+        "meaning": "mèo",
+        "illustration": 17,
+        "example": "猫がいます。",
+        "exampleMeaning": "Có một con mèo.",
+        "audio": "/n5/audio/2d35a5a9753e27d9.m4a",
+        "exampleAudio": "/n5/audio/0b23501c6f1d3670.m4a"
+      },
+      {
+        "id": "n5-dog",
+        "expression": "犬",
+        "reading": "いぬ",
+        "meaning": "chó",
+        "illustration": 18,
+        "example": "犬がいます。",
+        "exampleMeaning": "Có một con chó.",
+        "audio": "/n5/audio/ac780dba391b7b18.m4a",
+        "exampleAudio": "/n5/audio/628e82e93226cb74.m4a"
+      },
+      {
+        "id": "n5-chair",
+        "expression": "椅子",
+        "reading": "いす",
+        "meaning": "ghế",
+        "illustration": 19,
+        "example": "ここに椅子があります。",
+        "exampleMeaning": "Có một cái ghế ở đây.",
+        "audio": "/n5/audio/cab7ce5b7f57325d.m4a",
+        "exampleAudio": "/n5/audio/dd450ea886077ecb.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "場所に Nがあります／います",
+        "explanation": "あります thường dùng với đồ vật, cây; います với người và động vật. に chỉ nơi tồn tại, が giới thiệu thứ đang có.",
+        "example": "学校に猫がいます。",
+        "translation": "Có một con mèo ở trường.",
+        "pitfall": "Cây là vật sống nhưng trong mẫu này dùng あります.",
+        "audio": "/n5/audio/a8eb25ef38dd2387.m4a"
+      },
+      {
+        "pattern": "Nは場所にあります／います",
+        "explanation": "は đặt thứ đã biết làm chủ đề rồi cho biết vị trí. の nối mốc vị trí: 机の上, 椅子の下.",
+        "example": "本は椅子の上にあります。",
+        "translation": "Sách ở trên ghế.",
+        "pitfall": "Phân biệt câu giới thiệu có gì với câu tìm vật đã biết ở đâu.",
+        "audio": "/n5/audio/748b608f3b5d3f4f.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "10-grammar-0",
+        "kind": "recall",
+        "prompt": "Có mèo: 猫が＿。",
+        "answers": [
+          "います"
+        ],
+        "explanation": "あります thường dùng với đồ vật, cây; います với người và động vật. に chỉ nơi tồn tại, が giới thiệu thứ đang có. Cây là vật sống nhưng trong mẫu này dùng あります."
+      },
+      {
+        "id": "10-grammar-1",
+        "kind": "recall",
+        "prompt": "Sách ở trên ghế: 椅子の上＿あります。",
+        "answers": [
+          "に"
+        ],
+        "explanation": "は đặt thứ đã biết làm chủ đề rồi cho biết vị trí. の nối mốc vị trí: 机の上, 椅子の下. Phân biệt câu giới thiệu có gì với câu tìm vật đã biết ở đâu."
+      },
+      {
+        "id": "10-word-cat",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “mèo”.",
+        "answers": [
+          "猫",
+          "ねこ"
+        ],
+        "explanation": "猫（ねこ）: mèo. 猫がいます。 — Có một con mèo.",
+        "illustration": 17
+      },
+      {
+        "id": "10-word-dog",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “chó”.",
+        "answers": [
+          "犬",
+          "いぬ"
+        ],
+        "explanation": "犬（いぬ）: chó. 犬がいます。 — Có một con chó.",
+        "illustration": 18
+      },
+      {
+        "id": "10-word-chair",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “ghế”.",
+        "answers": [
+          "椅子",
+          "いす"
+        ],
+        "explanation": "椅子（いす）: ghế. ここに椅子があります。 — Có một cái ghế ở đây.",
+        "illustration": 19
+      },
+      {
+        "id": "10-reading",
+        "kind": "reading",
+        "passage": "椅子の上に猫がいます。椅子の下に本があります。",
+        "prompt": "Sách ở đâu?",
+        "choices": [
+          "Trên ghế",
+          "Bên ngoài trường",
+          "Dưới ghế"
+        ],
+        "answers": [
+          "Dưới ghế"
+        ],
+        "explanation": "本 đi với 椅子の下; 猫 ở trên ghế."
+      },
+      {
+        "id": "10-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): 猫 / 学校 / います / に / が",
+        "answers": [
+          "学校に猫がいます。",
+          "猫が学校にいます。"
+        ],
+        "explanation": "Đáp án mẫu: 学校に猫がいます。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "10-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/2d35a5a9753e27d9.m4a",
+        "choices": [
+          "sách",
+          "trường học",
+          "mèo",
+          "học sinh, sinh viên"
+        ],
+        "answers": [
+          "mèo"
+        ],
+        "explanation": "猫（ねこ）: mèo."
+      }
+    ],
+    "production": "Bố trí sách và ghế rồi mô tả vị trí; thêm một con vật tưởng tượng.",
+    "source": "buoi16.pdf"
+  },
+  {
+    "slug": "n5-bai-11",
+    "title": "Bài 11 · Số lượng và thời lượng",
+    "japaneseTitle": "第11課",
+    "description": "Đếm vật và nói mất bao lâu",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Đếm vật và nói mất bao lâu. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Đếm vật và nói mất bao lâu",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-apple",
+        "expression": "りんご",
+        "reading": "りんご",
+        "meaning": "táo",
+        "illustration": 14,
+        "example": "りんごを二つ買います。",
+        "exampleMeaning": "Tôi mua hai quả táo.",
+        "audio": "/n5/audio/4261abfc91324dc5.m4a",
+        "exampleAudio": "/n5/audio/8823b31c203507b3.m4a"
+      },
+      {
+        "id": "n5-egg",
+        "expression": "卵",
+        "reading": "たまご",
+        "meaning": "trứng",
+        "illustration": 20,
+        "example": "卵を食べます。",
+        "exampleMeaning": "Tôi ăn trứng.",
+        "audio": "/n5/audio/b5e7e89b1fbf0f06.m4a",
+        "exampleAudio": "/n5/audio/edc7d577caed2868.m4a"
+      },
+      {
+        "id": "n5-airplane",
+        "expression": "飛行機",
+        "reading": "ひこうき",
+        "meaning": "máy bay",
+        "illustration": 21,
+        "example": "飛行機で日本へ行きます。",
+        "exampleMeaning": "Tôi đi Nhật bằng máy bay.",
+        "audio": "/n5/audio/61b74c611f0c3e34.m4a",
+        "exampleAudio": "/n5/audio/3abe1bb0f37ef305.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "Nを数量 V",
+        "explanation": "Lượng từ thường đặt sau danh từ và trợ từ, trước động từ. ひとつ・ふたつ dùng đếm vật chung; 人 đếm người, 個 đếm vật nhỏ.",
+        "example": "りんごを二つ買います。",
+        "translation": "Tôi mua hai quả táo.",
+        "pitfall": "Đếm người: 一人ひとり, 二人ふたり; không dùng ひとつ cho người.",
+        "audio": "/n5/audio/8823b31c203507b3.m4a"
+      },
+      {
+        "pattern": "時間かかります／期間に回数",
+        "explanation": "かかります nói tốn thời gian hoặc tiền. 一週間に三回 nói tần suất: trong một tuần ba lần.",
+        "example": "学校まで三十分かかります。",
+        "translation": "Đến trường mất 30 phút.",
+        "pitfall": "三十分 là thời lượng, 三時 là thời điểm.",
+        "audio": "/n5/audio/262c7372ebe624fa.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "11-grammar-0",
+        "kind": "recall",
+        "prompt": "Hai cái: ＿",
+        "answers": [
+          "ふたつ"
+        ],
+        "explanation": "Lượng từ thường đặt sau danh từ và trợ từ, trước động từ. ひとつ・ふたつ dùng đếm vật chung; 人 đếm người, 個 đếm vật nhỏ. Đếm người: 一人ひとり, 二人ふたり; không dùng ひとつ cho người."
+      },
+      {
+        "id": "11-grammar-1",
+        "kind": "recall",
+        "prompt": "Mất 30 phút: 三十分＿。",
+        "answers": [
+          "かかります"
+        ],
+        "explanation": "かかります nói tốn thời gian hoặc tiền. 一週間に三回 nói tần suất: trong một tuần ba lần. 三十分 là thời lượng, 三時 là thời điểm."
+      },
+      {
+        "id": "11-word-apple",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “táo”.",
+        "answers": [
+          "りんご"
+        ],
+        "explanation": "りんご（りんご）: táo. りんごを二つ買います。 — Tôi mua hai quả táo.",
+        "illustration": 14
+      },
+      {
+        "id": "11-word-egg",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “trứng”.",
+        "answers": [
+          "卵",
+          "たまご"
+        ],
+        "explanation": "卵（たまご）: trứng. 卵を食べます。 — Tôi ăn trứng.",
+        "illustration": 20
+      },
+      {
+        "id": "11-word-airplane",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “máy bay”.",
+        "answers": [
+          "飛行機",
+          "ひこうき"
+        ],
+        "explanation": "飛行機（ひこうき）: máy bay. 飛行機で日本へ行きます。 — Tôi đi Nhật bằng máy bay.",
+        "illustration": 21
+      },
+      {
+        "id": "11-reading",
+        "kind": "reading",
+        "passage": "りんごを三つ買いました。卵を二つ買いました。",
+        "prompt": "Đã mua mấy quả táo?",
+        "choices": [
+          "5 quả",
+          "3 quả",
+          "2 quả"
+        ],
+        "answers": [
+          "3 quả"
+        ],
+        "explanation": "りんご đi cùng 三つ; 二つ là số trứng."
+      },
+      {
+        "id": "11-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): 買います / 二つ / を / りんご",
+        "answers": [
+          "りんごを二つ買います。"
+        ],
+        "explanation": "Đáp án mẫu: りんごを二つ買います。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "11-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/4261abfc91324dc5.m4a",
+        "choices": [
+          "trường học",
+          "táo",
+          "học sinh, sinh viên",
+          "sách"
+        ],
+        "answers": [
+          "táo"
+        ],
+        "explanation": "りんご（りんご）: táo."
+      }
+    ],
+    "production": "Nói số đồ ăn mua và thời gian đi đến trường.",
+    "source": "buoi18.pdf"
+  },
+  {
+    "slug": "n5-bai-12",
+    "title": "Bài 12 · Quá khứ và so sánh",
+    "japaneseTitle": "第12課",
+    "description": "Kể cảm nhận và so sánh hai lựa chọn",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Kể cảm nhận và so sánh hai lựa chọn. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Kể cảm nhận và so sánh hai lựa chọn",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-cold",
+        "expression": "寒い",
+        "reading": "さむい",
+        "meaning": "lạnh (thời tiết)",
+        "illustration": 15,
+        "example": "きょうは寒いです。",
+        "exampleMeaning": "Hôm nay trời lạnh.",
+        "audio": "/n5/audio/94fa622957a3ba2a.m4a",
+        "exampleAudio": "/n5/audio/7f9bb9961e8b0e31.m4a"
+      },
+      {
+        "id": "n5-train",
+        "expression": "電車",
+        "reading": "でんしゃ",
+        "meaning": "tàu điện",
+        "illustration": 8,
+        "example": "電車で行きます。",
+        "exampleMeaning": "Tôi đi bằng tàu điện.",
+        "audio": "/n5/audio/e79bee27152be835.m4a",
+        "exampleAudio": "/n5/audio/74f0d6182877d746.m4a"
+      },
+      {
+        "id": "n5-bicycle",
+        "expression": "自転車",
+        "reading": "じてんしゃ",
+        "meaning": "xe đạp",
+        "illustration": 9,
+        "example": "自転車で学校へ行きます。",
+        "exampleMeaning": "Tôi đi xe đạp đến trường.",
+        "audio": "/n5/audio/2be752d840257f3c.m4a",
+        "exampleAudio": "/n5/audio/fd3ceb704f34bc39.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "い→かった／N・な→でした",
+        "explanation": "Tính từ い bỏ い thêm かったです; phủ định quá khứ くなかったです. Danh từ và tính từ な dùng でした／じゃありませんでした.",
+        "example": "きのうは寒かったです。",
+        "translation": "Hôm qua trời lạnh.",
+        "pitfall": "いい→よかった; không dùng 寒いでした.",
+        "audio": "/n5/audio/5378e99f7788ce17.m4a"
+      },
+      {
+        "pattern": "AはBより～／Aのほうが～",
+        "explanation": "より chỉ mốc so sánh. Aのほうが chỉ lựa chọn có mức độ hơn. Hỏi AとBとどちらが～; trong nhóm dùng 一番.",
+        "example": "電車は自転車より速いです。",
+        "translation": "Tàu nhanh hơn xe đạp.",
+        "pitfall": "より đặt sau đối tượng làm mốc, không phải thứ hơn.",
+        "audio": "/n5/audio/a70875c9615f48f8.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "12-grammar-0",
+        "kind": "recall",
+        "prompt": "Quá khứ 寒い: 寒＿です。",
+        "answers": [
+          "かった"
+        ],
+        "explanation": "Tính từ い bỏ い thêm かったです; phủ định quá khứ くなかったです. Danh từ và tính từ な dùng でした／じゃありませんでした. いい→よかった; không dùng 寒いでした."
+      },
+      {
+        "id": "12-grammar-1",
+        "kind": "recall",
+        "prompt": "Tàu nhanh hơn xe đạp: 自転車＿速いです。",
+        "answers": [
+          "より"
+        ],
+        "explanation": "より chỉ mốc so sánh. Aのほうが chỉ lựa chọn có mức độ hơn. Hỏi AとBとどちらが～; trong nhóm dùng 一番. より đặt sau đối tượng làm mốc, không phải thứ hơn."
+      },
+      {
+        "id": "12-word-cold",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “lạnh (thời tiết)”.",
+        "answers": [
+          "寒い",
+          "さむい"
+        ],
+        "explanation": "寒い（さむい）: lạnh (thời tiết). きょうは寒いです。 — Hôm nay trời lạnh.",
+        "illustration": 15
+      },
+      {
+        "id": "12-word-train",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “tàu điện”.",
+        "answers": [
+          "電車",
+          "でんしゃ"
+        ],
+        "explanation": "電車（でんしゃ）: tàu điện. 電車で行きます。 — Tôi đi bằng tàu điện.",
+        "illustration": 8
+      },
+      {
+        "id": "12-word-bicycle",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “xe đạp”.",
+        "answers": [
+          "自転車",
+          "じてんしゃ"
+        ],
+        "explanation": "自転車（じてんしゃ）: xe đạp. 自転車で学校へ行きます。 — Tôi đi xe đạp đến trường.",
+        "illustration": 9
+      },
+      {
+        "id": "12-reading",
+        "kind": "reading",
+        "passage": "きのうは寒かったです。きょうはきのうより暖かいです。",
+        "prompt": "So với hôm qua, hôm nay ra sao?",
+        "choices": [
+          "Ấm hơn",
+          "Lạnh hơn",
+          "Lạnh như nhau"
+        ],
+        "answers": [
+          "Ấm hơn"
+        ],
+        "explanation": "きのうより đặt hôm qua làm mốc; 暖かい là ấm."
+      },
+      {
+        "id": "12-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): 寒かった / きのう / です / は",
+        "answers": [
+          "きのうは寒かったです。"
+        ],
+        "explanation": "Đáp án mẫu: きのうは寒かったです。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "12-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/94fa622957a3ba2a.m4a",
+        "choices": [
+          "lạnh (thời tiết)",
+          "học sinh, sinh viên",
+          "sách",
+          "trường học"
+        ],
+        "answers": [
+          "lạnh (thời tiết)"
+        ],
+        "explanation": "寒い（さむい）: lạnh (thời tiết)."
+      }
+    ],
+    "production": "So sánh hai phương tiện và kể thời tiết hôm qua.",
+    "source": "buoi19.pptx"
+  },
+  {
+    "slug": "n5-bai-13",
+    "title": "Bài 13 · Mong muốn và mục đích",
+    "japaneseTitle": "第13課",
+    "description": "Nói muốn có, muốn làm và đi để làm gì",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Nói muốn có, muốn làm và đi để làm gì. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Nói muốn có, muốn làm và đi để làm gì",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-swim",
+        "expression": "泳ぎます",
+        "reading": "およぎます",
+        "meaning": "bơi",
+        "illustration": 24,
+        "example": "泳ぐことができます。",
+        "exampleMeaning": "Tôi có thể bơi.",
+        "audio": "/n5/audio/60980510ce002e52.m4a",
+        "exampleAudio": "/n5/audio/0a748a18b770f3a8.m4a"
+      },
+      {
+        "id": "n5-book",
+        "expression": "本",
+        "reading": "ほん",
+        "meaning": "sách",
+        "illustration": 3,
+        "example": "これは本です。",
+        "exampleMeaning": "Đây là sách.",
+        "audio": "/n5/audio/d2815033823ea835.m4a",
+        "exampleAudio": "/n5/audio/1f1d9b21d576b775.m4a"
+      },
+      {
+        "id": "n5-walk",
+        "expression": "歩きます",
+        "reading": "あるきます",
+        "meaning": "đi bộ",
+        "illustration": 35,
+        "example": "毎日歩きます。",
+        "exampleMeaning": "Tôi đi bộ mỗi ngày.",
+        "audio": "/n5/audio/e1d13178d4734ab0.m4a",
+        "exampleAudio": "/n5/audio/1c6d346ae48dfef4.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "Nがほしい／Vますの語幹＋たい",
+        "explanation": "ほしい là muốn có vật; たい gắn vào gốc ます để nói muốn làm. 食べます→食べたい. Chia たい như tính từ い.",
+        "example": "本がほしいです。泳ぎたいです。",
+        "translation": "Tôi muốn có sách. Tôi muốn bơi.",
+        "pitfall": "Không gắn たい vào động từ còn nguyên ます.",
+        "audio": "/n5/audio/cd061d968c8f740d.m4a"
+      },
+      {
+        "pattern": "Vますの語幹に行きます",
+        "explanation": "Bỏ ます, thêm に行きます để nói đi làm gì. Địa điểm dùng へ／に.",
+        "example": "公園へ歩きに行きます。",
+        "translation": "Tôi đi công viên để đi bộ.",
+        "pitfall": "に chỉ mục đích sau gốc động từ, không dùng 歩きますに.",
+        "audio": "/n5/audio/da7fb3617101c0e4.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "13-grammar-0",
+        "kind": "recall",
+        "prompt": "Muốn bơi: 泳ぎ＿です。",
+        "answers": [
+          "たい"
+        ],
+        "explanation": "ほしい là muốn có vật; たい gắn vào gốc ます để nói muốn làm. 食べます→食べたい. Chia たい như tính từ い. Không gắn たい vào động từ còn nguyên ます."
+      },
+      {
+        "id": "13-grammar-1",
+        "kind": "recall",
+        "prompt": "Đi để bơi: 泳ぎ＿行きます。",
+        "answers": [
+          "に"
+        ],
+        "explanation": "Bỏ ます, thêm に行きます để nói đi làm gì. Địa điểm dùng へ／に. に chỉ mục đích sau gốc động từ, không dùng 歩きますに."
+      },
+      {
+        "id": "13-word-swim",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “bơi”.",
+        "answers": [
+          "泳ぎます",
+          "およぎます"
+        ],
+        "explanation": "泳ぎます（およぎます）: bơi. 泳ぐことができます。 — Tôi có thể bơi.",
+        "illustration": 24
+      },
+      {
+        "id": "13-word-book",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “sách”.",
+        "answers": [
+          "本",
+          "ほん"
+        ],
+        "explanation": "本（ほん）: sách. これは本です。 — Đây là sách.",
+        "illustration": 3
+      },
+      {
+        "id": "13-word-walk",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “đi bộ”.",
+        "answers": [
+          "歩きます",
+          "あるきます"
+        ],
+        "explanation": "歩きます（あるきます）: đi bộ. 毎日歩きます。 — Tôi đi bộ mỗi ngày.",
+        "illustration": 35
+      },
+      {
+        "id": "13-reading",
+        "kind": "reading",
+        "passage": "本がほしいです。あした本を買いに行きます。",
+        "prompt": "Ngày mai người này đi để làm gì?",
+        "choices": [
+          "Bơi",
+          "Đọc sách ở trường",
+          "Mua sách"
+        ],
+        "answers": [
+          "Mua sách"
+        ],
+        "explanation": "買いに行きます nói mục đích đi là mua."
+      },
+      {
+        "id": "13-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): 行きます / 泳ぎ / に",
+        "answers": [
+          "泳ぎに行きます。"
+        ],
+        "explanation": "Đáp án mẫu: 泳ぎに行きます。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "13-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/60980510ce002e52.m4a",
+        "choices": [
+          "học sinh, sinh viên",
+          "sách",
+          "trường học",
+          "bơi"
+        ],
+        "answers": [
+          "bơi"
+        ],
+        "explanation": "泳ぎます（およぎます）: bơi."
+      }
+    ],
+    "production": "Lập kế hoạch cuối tuần bằng một câu mong muốn và một câu mục đích.",
+    "source": "buoi20.pdf"
+  },
+  {
+    "slug": "n5-bai-14",
+    "title": "Bài 14 · Thể て và nhờ giúp",
+    "japaneseTitle": "第14課",
+    "description": "Chia thể て, nhờ và nói đang làm",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Chia thể て, nhờ và nói đang làm. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Chia thể て, nhờ và nói đang làm",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-open",
+        "expression": "開けます",
+        "reading": "あけます",
+        "meaning": "mở (cửa, cửa sổ)",
+        "illustration": 25,
+        "example": "ドアを開けてください。",
+        "exampleMeaning": "Xin hãy mở cửa.",
+        "audio": "/n5/audio/2c1c2fd28d30777d.m4a",
+        "exampleAudio": "/n5/audio/68840df2a1bc698f.m4a"
+      },
+      {
+        "id": "n5-read",
+        "expression": "読みます",
+        "reading": "よみます",
+        "meaning": "đọc",
+        "illustration": 31,
+        "example": "本を読みます。",
+        "exampleMeaning": "Tôi đọc sách.",
+        "audio": "/n5/audio/b4b8a8108efaa4e1.m4a",
+        "exampleAudio": "/n5/audio/042ecc71a0cd0b2a.m4a"
+      },
+      {
+        "id": "n5-write",
+        "expression": "書きます",
+        "reading": "かきます",
+        "meaning": "viết",
+        "illustration": 32,
+        "example": "日本語で書きます。",
+        "exampleMeaning": "Tôi viết bằng tiếng Nhật.",
+        "audio": "/n5/audio/6e6b6201a7ae85b2.m4a",
+        "exampleAudio": "/n5/audio/c16230328110f85b.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "Vてください",
+        "explanation": "Thể て nối động từ với mẫu khác. Nhóm 2 bỏ る thêm て; nhóm 3 する→して、来る→来て. Nhóm 1: うつる→って; むぶぬ→んで; く→いて; ぐ→いで; す→して. 行く→行って.",
+        "example": "ドアを開けてください。",
+        "translation": "Xin hãy mở cửa.",
+        "pitfall": "Chia theo động từ thể từ điển và nhóm, không chỉ nhìn âm trước ます.",
+        "audio": "/n5/audio/68840df2a1bc698f.m4a"
+      },
+      {
+        "pattern": "Vています／Vましょうか",
+        "explanation": "ています có thể chỉ đang làm. ましょうか đề nghị mình làm giúp người nghe.",
+        "example": "今、本を読んでいます。",
+        "translation": "Bây giờ tôi đang đọc sách.",
+        "pitfall": "ています còn chỉ trạng thái và thói quen ở bài sau.",
+        "audio": "/n5/audio/b9d255b919ac8c9e.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "14-grammar-0",
+        "kind": "recall",
+        "prompt": "Thể て của 書く: ＿",
+        "answers": [
+          "書いて"
+        ],
+        "explanation": "Thể て nối động từ với mẫu khác. Nhóm 2 bỏ る thêm て; nhóm 3 する→して、来る→来て. Nhóm 1: うつる→って; むぶぬ→んで; く→いて; ぐ→いで; す→して. 行く→行って. Chia theo động từ thể từ điển và nhóm, không chỉ nhìn âm trước ます."
+      },
+      {
+        "id": "14-grammar-1",
+        "kind": "recall",
+        "prompt": "Thể て của 読む: ＿",
+        "answers": [
+          "読んで"
+        ],
+        "explanation": "ています có thể chỉ đang làm. ましょうか đề nghị mình làm giúp người nghe. ています còn chỉ trạng thái và thói quen ở bài sau."
+      },
+      {
+        "id": "14-word-open",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “mở (cửa, cửa sổ)”.",
+        "answers": [
+          "開けます",
+          "あけます"
+        ],
+        "explanation": "開けます（あけます）: mở (cửa, cửa sổ). ドアを開けてください。 — Xin hãy mở cửa.",
+        "illustration": 25
+      },
+      {
+        "id": "14-word-read",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “đọc”.",
+        "answers": [
+          "読みます",
+          "よみます"
+        ],
+        "explanation": "読みます（よみます）: đọc. 本を読みます。 — Tôi đọc sách.",
+        "illustration": 31
+      },
+      {
+        "id": "14-word-write",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “viết”.",
+        "answers": [
+          "書きます",
+          "かきます"
+        ],
+        "explanation": "書きます（かきます）: viết. 日本語で書きます。 — Tôi viết bằng tiếng Nhật.",
+        "illustration": 32
+      },
+      {
+        "id": "14-reading",
+        "kind": "reading",
+        "passage": "母は今、本を読んでいます。父は手紙を書いています。",
+        "prompt": "Mẹ đang làm gì?",
+        "choices": [
+          "Mở cửa",
+          "Đọc sách",
+          "Viết thư"
+        ],
+        "answers": [
+          "Đọc sách"
+        ],
+        "explanation": "母 đi với 読んでいます; 父 mới là người viết thư."
+      },
+      {
+        "id": "14-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): 開けて / ドア / ください / を",
+        "answers": [
+          "ドアを開けてください。"
+        ],
+        "explanation": "Đáp án mẫu: ドアを開けてください。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "14-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/2c1c2fd28d30777d.m4a",
+        "choices": [
+          "sách",
+          "trường học",
+          "mở (cửa, cửa sổ)",
+          "học sinh, sinh viên"
+        ],
+        "answers": [
+          "mở (cửa, cửa sổ)"
+        ],
+        "explanation": "開けます（あけます）: mở (cửa, cửa sổ)."
+      }
+    ],
+    "production": "Nhờ bạn mở cửa rồi nói bạn đang làm gì.",
+    "source": "buoi21.pdf"
+  },
+  {
+    "slug": "n5-bai-15",
+    "title": "Bài 15 · Cho phép, cấm và trạng thái",
+    "japaneseTitle": "第15課",
+    "description": "Hỏi được làm không và nói trạng thái",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Hỏi được làm không và nói trạng thái. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Hỏi được làm không và nói trạng thái",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-sit",
+        "expression": "座ります",
+        "reading": "すわります",
+        "meaning": "ngồi",
+        "illustration": 26,
+        "example": "ここに座ってもいいですか。",
+        "exampleMeaning": "Tôi ngồi ở đây được không?",
+        "audio": "/n5/audio/eb9fa4a5d73c4d71.m4a",
+        "exampleAudio": "/n5/audio/f5ea3aff266e48ee.m4a"
+      },
+      {
+        "id": "n5-family",
+        "expression": "家族",
+        "reading": "かぞく",
+        "meaning": "gia đình",
+        "illustration": 34,
+        "example": "家族と行きます。",
+        "exampleMeaning": "Tôi đi cùng gia đình.",
+        "audio": "/n5/audio/3fa19a8a47e72c29.m4a",
+        "exampleAudio": "/n5/audio/b12abc0a20e80902.m4a"
+      },
+      {
+        "id": "n5-school",
+        "expression": "学校",
+        "reading": "がっこう",
+        "meaning": "trường học",
+        "illustration": 6,
+        "example": "学校へ行きます。",
+        "exampleMeaning": "Tôi đến trường.",
+        "audio": "/n5/audio/95ec5cbb2da56780.m4a",
+        "exampleAudio": "/n5/audio/716938e17fa5c3dc.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "Vてもいい／Vてはいけません",
+        "explanation": "てもいい cho phép; てはいけません cấm. Khi hỏi dùng てもいいですか.",
+        "example": "ここに座ってもいいですか。",
+        "translation": "Tôi ngồi ở đây được không?",
+        "pitfall": "禁止 khác không cần làm; không cần dùng なくてもいい ở bài 17.",
+        "audio": "/n5/audio/f5ea3aff266e48ee.m4a"
+      },
+      {
+        "pattern": "Vています：状態・習慣",
+        "explanation": "Không phải lúc nào cũng đang. 住んでいます sống ở; 知っています biết; 結婚しています đã kết hôn và hiện ở trạng thái đó.",
+        "example": "東京に住んでいます。",
+        "translation": "Tôi sống ở Tokyo.",
+        "pitfall": "Phủ định 知っています là 知りません.",
+        "audio": "/n5/audio/0bf1c2a285dcf921.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "15-grammar-0",
+        "kind": "recall",
+        "prompt": "Xin phép ngồi: 座って＿いいですか。",
+        "answers": [
+          "も"
+        ],
+        "explanation": "てもいい cho phép; てはいけません cấm. Khi hỏi dùng てもいいですか. 禁止 khác không cần làm; không cần dùng なくてもいい ở bài 17."
+      },
+      {
+        "id": "15-grammar-1",
+        "kind": "recall",
+        "prompt": "Không biết: ＿",
+        "answers": [
+          "知りません"
+        ],
+        "explanation": "Không phải lúc nào cũng đang. 住んでいます sống ở; 知っています biết; 結婚しています đã kết hôn và hiện ở trạng thái đó. Phủ định 知っています là 知りません."
+      },
+      {
+        "id": "15-word-sit",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “ngồi”.",
+        "answers": [
+          "座ります",
+          "すわります"
+        ],
+        "explanation": "座ります（すわります）: ngồi. ここに座ってもいいですか。 — Tôi ngồi ở đây được không?",
+        "illustration": 26
+      },
+      {
+        "id": "15-word-family",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “gia đình”.",
+        "answers": [
+          "家族",
+          "かぞく"
+        ],
+        "explanation": "家族（かぞく）: gia đình. 家族と行きます。 — Tôi đi cùng gia đình.",
+        "illustration": 34
+      },
+      {
+        "id": "15-word-school",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “trường học”.",
+        "answers": [
+          "学校",
+          "がっこう"
+        ],
+        "explanation": "学校（がっこう）: trường học. 学校へ行きます。 — Tôi đến trường.",
+        "illustration": 6
+      },
+      {
+        "id": "15-reading",
+        "kind": "reading",
+        "passage": "ここで本を読んでもいいです。でも、写真を撮ってはいけません。",
+        "prompt": "Việc nào được phép?",
+        "choices": [
+          "Đọc sách",
+          "Chụp ảnh",
+          "Cả hai"
+        ],
+        "answers": [
+          "Đọc sách"
+        ],
+        "explanation": "てもいい cho phép; てはいけません cấm chụp ảnh."
+      },
+      {
+        "id": "15-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): も / 座って / です / いい / か",
+        "answers": [
+          "座ってもいいですか。"
+        ],
+        "explanation": "Đáp án mẫu: 座ってもいいですか。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "15-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/eb9fa4a5d73c4d71.m4a",
+        "choices": [
+          "trường học",
+          "ngồi",
+          "học sinh, sinh viên",
+          "sách"
+        ],
+        "answers": [
+          "ngồi"
+        ],
+        "explanation": "座ります（すわります）: ngồi."
+      }
+    ],
+    "production": "Viết nội quy lớp gồm một điều được phép và một điều cấm.",
+    "source": "buoi22.pdf"
+  },
+  {
+    "slug": "n5-bai-16",
+    "title": "Bài 16 · Nối hành động và đặc điểm",
+    "japaneseTitle": "第16課",
+    "description": "Kể trình tự và ghép miêu tả",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Kể trình tự và ghép miêu tả. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Kể trình tự và ghép miêu tả",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-wash",
+        "expression": "洗います",
+        "reading": "あらいます",
+        "meaning": "rửa, giặt",
+        "illustration": 27,
+        "example": "手を洗います。",
+        "exampleMeaning": "Tôi rửa tay.",
+        "audio": "/n5/audio/77300b1c7774d2e4.m4a",
+        "exampleAudio": "/n5/audio/63143839e6e40a9b.m4a"
+      },
+      {
+        "id": "n5-bread",
+        "expression": "パン",
+        "reading": "パン",
+        "meaning": "bánh mì",
+        "illustration": 10,
+        "example": "パンを食べます。",
+        "exampleMeaning": "Tôi ăn bánh mì.",
+        "audio": "/n5/audio/433c68371a3d5588.m4a",
+        "exampleAudio": "/n5/audio/b54249200c5e44e1.m4a"
+      },
+      {
+        "id": "n5-school",
+        "expression": "学校",
+        "reading": "がっこう",
+        "meaning": "trường học",
+        "illustration": 6,
+        "example": "学校へ行きます。",
+        "exampleMeaning": "Tôi đến trường.",
+        "audio": "/n5/audio/95ec5cbb2da56780.m4a",
+        "exampleAudio": "/n5/audio/716938e17fa5c3dc.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "Vて、Vて／Vてから",
+        "explanation": "Chuỗi thể て nối hành động theo trình tự. てから nhấn mạnh xong hành động trước rồi làm tiếp.",
+        "example": "手を洗ってから、パンを食べます。",
+        "translation": "Rửa tay xong rồi tôi ăn bánh mì.",
+        "pitfall": "Đuôi cuối quyết định thời và độ lịch sự của cả chuỗi.",
+        "audio": "/n5/audio/92dfe1e369a68f0c.m4a"
+      },
+      {
+        "pattern": "い→くて／な・N→で／N1はN2が～",
+        "explanation": "Tính từ い bỏ い thêm くて; tính từ な và danh từ dùng で để nối. N1はN2が～ nêu thuộc tính của tổng thể.",
+        "example": "この学校は大きくて、静かです。",
+        "translation": "Trường này lớn và yên tĩnh.",
+        "pitfall": "いい→よくて; không dùng 大きいで.",
+        "audio": "/n5/audio/644eb2dc4ce9c940.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "16-grammar-0",
+        "kind": "recall",
+        "prompt": "Sau khi rửa tay: 洗って＿",
+        "answers": [
+          "から"
+        ],
+        "explanation": "Chuỗi thể て nối hành động theo trình tự. てから nhấn mạnh xong hành động trước rồi làm tiếp. Đuôi cuối quyết định thời và độ lịch sự của cả chuỗi."
+      },
+      {
+        "id": "16-grammar-1",
+        "kind": "recall",
+        "prompt": "Nối 大きい: 大き＿",
+        "answers": [
+          "くて"
+        ],
+        "explanation": "Tính từ い bỏ い thêm くて; tính từ な và danh từ dùng で để nối. N1はN2が～ nêu thuộc tính của tổng thể. いい→よくて; không dùng 大きいで."
+      },
+      {
+        "id": "16-word-wash",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “rửa, giặt”.",
+        "answers": [
+          "洗います",
+          "あらいます"
+        ],
+        "explanation": "洗います（あらいます）: rửa, giặt. 手を洗います。 — Tôi rửa tay.",
+        "illustration": 27
+      },
+      {
+        "id": "16-word-bread",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “bánh mì”.",
+        "answers": [
+          "パン"
+        ],
+        "explanation": "パン（パン）: bánh mì. パンを食べます。 — Tôi ăn bánh mì.",
+        "illustration": 10
+      },
+      {
+        "id": "16-word-school",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “trường học”.",
+        "answers": [
+          "学校",
+          "がっこう"
+        ],
+        "explanation": "学校（がっこう）: trường học. 学校へ行きます。 — Tôi đến trường.",
+        "illustration": 6
+      },
+      {
+        "id": "16-reading",
+        "kind": "reading",
+        "passage": "手を洗ってから、パンを食べました。それから、学校へ行きました。",
+        "prompt": "Việc gì diễn ra trước khi ăn?",
+        "choices": [
+          "Đi học",
+          "Đọc sách",
+          "Rửa tay"
+        ],
+        "answers": [
+          "Rửa tay"
+        ],
+        "explanation": "てから nhấn mạnh rửa tay xong rồi ăn."
+      },
+      {
+        "id": "16-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): から / パン / 食べます / 洗って / を / 手 / を",
+        "answers": [
+          "手を洗ってから、パンを食べます。"
+        ],
+        "explanation": "Đáp án mẫu: 手を洗ってから、パンを食べます。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "16-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/77300b1c7774d2e4.m4a",
+        "choices": [
+          "rửa, giặt",
+          "học sinh, sinh viên",
+          "sách",
+          "trường học"
+        ],
+        "answers": [
+          "rửa, giặt"
+        ],
+        "explanation": "洗います（あらいます）: rửa, giặt."
+      }
+    ],
+    "production": "Kể buổi sáng bằng 3 hành động và miêu tả một nơi bằng 2 tính từ.",
+    "source": "buoi24.pdf"
+  },
+  {
+    "slug": "n5-bai-17",
+    "title": "Bài 17 · Thể ない và nghĩa vụ",
+    "japaneseTitle": "第17課",
+    "description": "Nói đừng làm, phải làm và không cần",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Nói đừng làm, phải làm và không cần. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Nói đừng làm, phải làm và không cần",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-school",
+        "expression": "学校",
+        "reading": "がっこう",
+        "meaning": "trường học",
+        "illustration": 6,
+        "example": "学校へ行きます。",
+        "exampleMeaning": "Tôi đến trường.",
+        "audio": "/n5/audio/95ec5cbb2da56780.m4a",
+        "exampleAudio": "/n5/audio/716938e17fa5c3dc.m4a"
+      },
+      {
+        "id": "n5-water",
+        "expression": "水",
+        "reading": "みず",
+        "meaning": "nước",
+        "illustration": 11,
+        "example": "水を飲みます。",
+        "exampleMeaning": "Tôi uống nước.",
+        "audio": "/n5/audio/986430368256f18d.m4a",
+        "exampleAudio": "/n5/audio/70a6096abed12ad7.m4a"
+      },
+      {
+        "id": "n5-sleep",
+        "expression": "寝ます",
+        "reading": "ねます",
+        "meaning": "ngủ, đi ngủ",
+        "illustration": 29,
+        "example": "十時に寝ます。",
+        "exampleMeaning": "Tôi đi ngủ lúc 10 giờ.",
+        "audio": "/n5/audio/5be8c90a89cd490a.m4a",
+        "exampleAudio": "/n5/audio/d7b4662303a82029.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "Vないでください",
+        "explanation": "Nhóm 2 bỏ る thêm ない. Nhóm 1 đổi âm cuối sang hàng a＋ない; う→わない. する→しない、来る→来ない、ある→ない. ないでください là xin đừng làm.",
+        "example": "ここで写真を撮らないでください。",
+        "translation": "Xin đừng chụp ảnh ở đây.",
+        "pitfall": "買う→買わない, không phải 買あない.",
+        "audio": "/n5/audio/78174b6c67db0217.m4a"
+      },
+      {
+        "pattern": "Vなければなりません／Vなくてもいい",
+        "explanation": "Bỏ い của ない rồi thêm ければなりません là phải; thêm くてもいい là không cần.",
+        "example": "明日、学校へ行かなければなりません。",
+        "translation": "Ngày mai tôi phải đi học.",
+        "pitfall": "Không cần khác bị cấm: 行かなくてもいい vẫn cho phép đi.",
+        "audio": "/n5/audio/26e788e6ab0bab60.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "17-grammar-0",
+        "kind": "recall",
+        "prompt": "Phủ định 買う: ＿",
+        "answers": [
+          "買わない"
+        ],
+        "explanation": "Nhóm 2 bỏ る thêm ない. Nhóm 1 đổi âm cuối sang hàng a＋ない; う→わない. する→しない、来る→来ない、ある→ない. ないでください là xin đừng làm. 買う→買わない, không phải 買あない."
+      },
+      {
+        "id": "17-grammar-1",
+        "kind": "recall",
+        "prompt": "Không cần đi: 行か＿いいです。",
+        "answers": [
+          "なくても"
+        ],
+        "explanation": "Bỏ い của ない rồi thêm ければなりません là phải; thêm くてもいい là không cần. Không cần khác bị cấm: 行かなくてもいい vẫn cho phép đi."
+      },
+      {
+        "id": "17-word-school",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “trường học”.",
+        "answers": [
+          "学校",
+          "がっこう"
+        ],
+        "explanation": "学校（がっこう）: trường học. 学校へ行きます。 — Tôi đến trường.",
+        "illustration": 6
+      },
+      {
+        "id": "17-word-water",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “nước”.",
+        "answers": [
+          "水",
+          "みず"
+        ],
+        "explanation": "水（みず）: nước. 水を飲みます。 — Tôi uống nước.",
+        "illustration": 11
+      },
+      {
+        "id": "17-word-sleep",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “ngủ, đi ngủ”.",
+        "answers": [
+          "寝ます",
+          "ねます"
+        ],
+        "explanation": "寝ます（ねます）: ngủ, đi ngủ. 十時に寝ます。 — Tôi đi ngủ lúc 10 giờ.",
+        "illustration": 29
+      },
+      {
+        "id": "17-reading",
+        "kind": "reading",
+        "passage": "あした学校へ行かなければなりません。でも、本は持って行かなくてもいいです。",
+        "prompt": "Việc nào không bắt buộc?",
+        "choices": [
+          "Cả hai",
+          "Mang sách",
+          "Đến trường"
+        ],
+        "answers": [
+          "Mang sách"
+        ],
+        "explanation": "持って行かなくてもいい nghĩa là không cần mang; vẫn được mang."
+      },
+      {
+        "id": "17-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): いい / 行かなくて / です / も",
+        "answers": [
+          "行かなくてもいいです。"
+        ],
+        "explanation": "Đáp án mẫu: 行かなくてもいいです。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "17-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/95ec5cbb2da56780.m4a",
+        "choices": [
+          "học sinh, sinh viên",
+          "sách",
+          "đồng hồ",
+          "trường học"
+        ],
+        "answers": [
+          "trường học"
+        ],
+        "explanation": "学校（がっこう）: trường học."
+      }
+    ],
+    "production": "Viết một việc bắt buộc, một việc không cần và một lời nhắc đừng làm.",
+    "source": "buoi25.pdf"
+  },
+  {
+    "slug": "n5-bai-18",
+    "title": "Bài 18 · Thể từ điển và khả năng",
+    "japaneseTitle": "第18課",
+    "description": "Nói có thể, sở thích và trước khi",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Nói có thể, sở thích và trước khi. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Nói có thể, sở thích và trước khi",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-swim",
+        "expression": "泳ぎます",
+        "reading": "およぎます",
+        "meaning": "bơi",
+        "illustration": 24,
+        "example": "泳ぐことができます。",
+        "exampleMeaning": "Tôi có thể bơi.",
+        "audio": "/n5/audio/60980510ce002e52.m4a",
+        "exampleAudio": "/n5/audio/0a748a18b770f3a8.m4a"
+      },
+      {
+        "id": "n5-sing",
+        "expression": "歌います",
+        "reading": "うたいます",
+        "meaning": "hát",
+        "illustration": 28,
+        "example": "歌うことが好きです。",
+        "exampleMeaning": "Tôi thích hát.",
+        "audio": "/n5/audio/a688afb7caff3d33.m4a",
+        "exampleAudio": "/n5/audio/64d4797efba06cc5.m4a"
+      },
+      {
+        "id": "n5-read",
+        "expression": "読みます",
+        "reading": "よみます",
+        "meaning": "đọc",
+        "illustration": 31,
+        "example": "本を読みます。",
+        "exampleMeaning": "Tôi đọc sách.",
+        "audio": "/n5/audio/b4b8a8108efaa4e1.m4a",
+        "exampleAudio": "/n5/audio/042ecc71a0cd0b2a.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "Vることができます／趣味はVること",
+        "explanation": "Thể từ điển là dạng tra từ: 食べる、書く、する. こと biến hành động thành cụm danh từ để nói khả năng hoặc sở thích.",
+        "example": "泳ぐことができます。",
+        "translation": "Tôi có thể bơi.",
+        "pitfall": "Không dùng 泳ぎますこと.",
+        "audio": "/n5/audio/0a748a18b770f3a8.m4a"
+      },
+      {
+        "pattern": "Vる前に／Nの前に",
+        "explanation": "Trước khi làm dùng thể từ điển＋前に. Trước danh từ dùng の前に. Thời quá khứ hay tương lai nằm ở cuối câu.",
+        "example": "寝る前に、本を読みます。",
+        "translation": "Trước khi ngủ tôi đọc sách.",
+        "pitfall": "Không chia động từ trước 前に thành quá khứ dù kể hôm qua.",
+        "audio": "/n5/audio/e59839e9956def5a.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "18-grammar-0",
+        "kind": "recall",
+        "prompt": "Tôi có thể bơi: 泳ぐ＿ができます。",
+        "answers": [
+          "こと"
+        ],
+        "explanation": "Thể từ điển là dạng tra từ: 食べる、書く、する. こと biến hành động thành cụm danh từ để nói khả năng hoặc sở thích. Không dùng 泳ぎますこと."
+      },
+      {
+        "id": "18-grammar-1",
+        "kind": "recall",
+        "prompt": "Trước khi ngủ: 寝る＿に",
+        "answers": [
+          "前"
+        ],
+        "explanation": "Trước khi làm dùng thể từ điển＋前に. Trước danh từ dùng の前に. Thời quá khứ hay tương lai nằm ở cuối câu. Không chia động từ trước 前に thành quá khứ dù kể hôm qua."
+      },
+      {
+        "id": "18-word-swim",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “bơi”.",
+        "answers": [
+          "泳ぎます",
+          "およぎます"
+        ],
+        "explanation": "泳ぎます（およぎます）: bơi. 泳ぐことができます。 — Tôi có thể bơi.",
+        "illustration": 24
+      },
+      {
+        "id": "18-word-sing",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “hát”.",
+        "answers": [
+          "歌います",
+          "うたいます"
+        ],
+        "explanation": "歌います（うたいます）: hát. 歌うことが好きです。 — Tôi thích hát.",
+        "illustration": 28
+      },
+      {
+        "id": "18-word-read",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “đọc”.",
+        "answers": [
+          "読みます",
+          "よみます"
+        ],
+        "explanation": "読みます（よみます）: đọc. 本を読みます。 — Tôi đọc sách.",
+        "illustration": 31
+      },
+      {
+        "id": "18-reading",
+        "kind": "reading",
+        "passage": "泳ぐことができます。でも、歌うことができません。",
+        "prompt": "Người này có thể làm gì?",
+        "choices": [
+          "Bơi",
+          "Hát",
+          "Cả hai"
+        ],
+        "answers": [
+          "Bơi"
+        ],
+        "explanation": "できます khẳng định khả năng bơi; できません phủ định hát."
+      },
+      {
+        "id": "18-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): できます / 泳ぐ / が / こと",
+        "answers": [
+          "泳ぐことができます。"
+        ],
+        "explanation": "Đáp án mẫu: 泳ぐことができます。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "18-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/60980510ce002e52.m4a",
+        "choices": [
+          "sách",
+          "trường học",
+          "bơi",
+          "học sinh, sinh viên"
+        ],
+        "answers": [
+          "bơi"
+        ],
+        "explanation": "泳ぎます（およぎます）: bơi."
+      }
+    ],
+    "production": "Nói một khả năng, một sở thích và một việc làm trước khi ngủ.",
+    "source": "buoi26.pdf"
+  },
+  {
+    "slug": "n5-bai-19",
+    "title": "Bài 19 · Kinh nghiệm và thay đổi",
+    "japaneseTitle": "第19課",
+    "description": "Dùng thể た để kể kinh nghiệm",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Dùng thể た để kể kinh nghiệm. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Dùng thể た để kể kinh nghiệm",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-mountain",
+        "expression": "山",
+        "reading": "やま",
+        "meaning": "núi",
+        "illustration": 22,
+        "example": "山に登ります。",
+        "exampleMeaning": "Tôi leo núi.",
+        "audio": "/n5/audio/47c5e1a8b9f3dd16.m4a",
+        "exampleAudio": "/n5/audio/7ff27742ae277a71.m4a"
+      },
+      {
+        "id": "n5-cold",
+        "expression": "寒い",
+        "reading": "さむい",
+        "meaning": "lạnh (thời tiết)",
+        "illustration": 15,
+        "example": "きょうは寒いです。",
+        "exampleMeaning": "Hôm nay trời lạnh.",
+        "audio": "/n5/audio/94fa622957a3ba2a.m4a",
+        "exampleAudio": "/n5/audio/7f9bb9961e8b0e31.m4a"
+      },
+      {
+        "id": "n5-wash",
+        "expression": "洗います",
+        "reading": "あらいます",
+        "meaning": "rửa, giặt",
+        "illustration": 27,
+        "example": "手を洗います。",
+        "exampleMeaning": "Tôi rửa tay.",
+        "audio": "/n5/audio/77300b1c7774d2e4.m4a",
+        "exampleAudio": "/n5/audio/63143839e6e40a9b.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "Vたことがあります／VたりVたりします",
+        "explanation": "Thể た chia giống て rồi đổi て→た、で→だ. たことがあります là từng làm; たり liệt kê ví dụ hoạt động, không nhất thiết theo thứ tự.",
+        "example": "山に登ったことがあります。",
+        "translation": "Tôi từng leo núi.",
+        "pitfall": "たことがある là kinh nghiệm, khác kể một sự kiện vừa xảy ra.",
+        "audio": "/n5/audio/0bb879ab5eedd056.m4a"
+      },
+      {
+        "pattern": "い→くなります／な・N→になります",
+        "explanation": "なります nói trở nên. Tính từ い bỏ い thêm く; tính từ な và danh từ thêm に.",
+        "example": "寒くなりました。",
+        "translation": "Trời đã trở lạnh.",
+        "pitfall": "Không dùng 寒いになります.",
+        "audio": "/n5/audio/817f5f4bda9340ab.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "19-grammar-0",
+        "kind": "recall",
+        "prompt": "Thể た của 読む: ＿",
+        "answers": [
+          "読んだ"
+        ],
+        "explanation": "Thể た chia giống て rồi đổi て→た、で→だ. たことがあります là từng làm; たり liệt kê ví dụ hoạt động, không nhất thiết theo thứ tự. たことがある là kinh nghiệm, khác kể một sự kiện vừa xảy ra."
+      },
+      {
+        "id": "19-grammar-1",
+        "kind": "recall",
+        "prompt": "Trở nên lạnh: 寒＿なります。",
+        "answers": [
+          "く"
+        ],
+        "explanation": "なります nói trở nên. Tính từ い bỏ い thêm く; tính từ な và danh từ thêm に. Không dùng 寒いになります."
+      },
+      {
+        "id": "19-word-mountain",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “núi”.",
+        "answers": [
+          "山",
+          "やま"
+        ],
+        "explanation": "山（やま）: núi. 山に登ります。 — Tôi leo núi.",
+        "illustration": 22
+      },
+      {
+        "id": "19-word-cold",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “lạnh (thời tiết)”.",
+        "answers": [
+          "寒い",
+          "さむい"
+        ],
+        "explanation": "寒い（さむい）: lạnh (thời tiết). きょうは寒いです。 — Hôm nay trời lạnh.",
+        "illustration": 15
+      },
+      {
+        "id": "19-word-wash",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “rửa, giặt”.",
+        "answers": [
+          "洗います",
+          "あらいます"
+        ],
+        "explanation": "洗います（あらいます）: rửa, giặt. 手を洗います。 — Tôi rửa tay.",
+        "illustration": 27
+      },
+      {
+        "id": "19-reading",
+        "kind": "reading",
+        "passage": "山に登ったことがあります。飛行機に乗ったことはありません。",
+        "prompt": "Người này đã từng làm gì?",
+        "choices": [
+          "Đi máy bay",
+          "Cả hai",
+          "Leo núi"
+        ],
+        "answers": [
+          "Leo núi"
+        ],
+        "explanation": "たことがあります là từng; ありません là chưa từng."
+      },
+      {
+        "id": "19-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): こと / あります / が / 登った / 山 / に",
+        "answers": [
+          "山に登ったことがあります。"
+        ],
+        "explanation": "Đáp án mẫu: 山に登ったことがあります。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "19-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/47c5e1a8b9f3dd16.m4a",
+        "choices": [
+          "trường học",
+          "núi",
+          "học sinh, sinh viên",
+          "sách"
+        ],
+        "answers": [
+          "núi"
+        ],
+        "explanation": "山（やま）: núi."
+      }
+    ],
+    "production": "Kể một kinh nghiệm, hai việc cuối tuần và một thay đổi.",
+    "source": "buoi27.pdf"
+  },
+  {
+    "slug": "n5-bai-20",
+    "title": "Bài 20 · Thể thông thường",
+    "japaneseTitle": "第20課",
+    "description": "Chuyển giữa lịch sự và thân mật",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Chuyển giữa lịch sự và thân mật. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Chuyển giữa lịch sự và thân mật",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-school",
+        "expression": "学校",
+        "reading": "がっこう",
+        "meaning": "trường học",
+        "illustration": 6,
+        "example": "学校へ行きます。",
+        "exampleMeaning": "Tôi đến trường.",
+        "audio": "/n5/audio/95ec5cbb2da56780.m4a",
+        "exampleAudio": "/n5/audio/716938e17fa5c3dc.m4a"
+      },
+      {
+        "id": "n5-cold",
+        "expression": "寒い",
+        "reading": "さむい",
+        "meaning": "lạnh (thời tiết)",
+        "illustration": 15,
+        "example": "きょうは寒いです。",
+        "exampleMeaning": "Hôm nay trời lạnh.",
+        "audio": "/n5/audio/94fa622957a3ba2a.m4a",
+        "exampleAudio": "/n5/audio/7f9bb9961e8b0e31.m4a"
+      },
+      {
+        "id": "n5-coffee",
+        "expression": "コーヒー",
+        "reading": "コーヒー",
+        "meaning": "cà phê",
+        "illustration": 23,
+        "example": "コーヒーを飲みます。",
+        "exampleMeaning": "Tôi uống cà phê.",
+        "audio": "/n5/audio/bb782cf87667ea09.m4a",
+        "exampleAudio": "/n5/audio/de5795507d3eb44b.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "丁寧形→普通形",
+        "explanation": "Động từ: 行きます→行く、行きません→行かない、行きました→行った、行きませんでした→行かなかった. Đây là nền để ghép mệnh đề.",
+        "example": "あした学校へ行く。",
+        "translation": "Ngày mai tôi đi học.",
+        "pitfall": "Thể thông thường là một hệ gồm hiện tại, quá khứ và phủ định; không chỉ thể từ điển.",
+        "audio": "/n5/audio/42d5bae54991e566.m4a"
+      },
+      {
+        "pattern": "N・な：だ／い：そのまま",
+        "explanation": "Danh từ và tính từ な dùng だ ở câu khẳng định thường; tính từ い giữ nguyên. Phủ định Nじゃない、い→くない. Câu hỏi thân mật thường dùng ngữ điệu.",
+        "example": "学生だ。寒い。",
+        "translation": "Là sinh viên. Lạnh.",
+        "pitfall": "Không thêm だ sau tính từ い: 寒いだ là sai.",
+        "audio": "/n5/audio/f80c5d0e94270837.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "20-grammar-0",
+        "kind": "recall",
+        "prompt": "Thể thường của 行きました: ＿",
+        "answers": [
+          "行った"
+        ],
+        "explanation": "Động từ: 行きます→行く、行きません→行かない、行きました→行った、行きませんでした→行かなかった. Đây là nền để ghép mệnh đề. Thể thông thường là một hệ gồm hiện tại, quá khứ và phủ định; không chỉ thể từ điển."
+      },
+      {
+        "id": "20-grammar-1",
+        "kind": "recall",
+        "prompt": "Thể thường 学生です: 学生＿。",
+        "answers": [
+          "だ"
+        ],
+        "explanation": "Danh từ và tính từ な dùng だ ở câu khẳng định thường; tính từ い giữ nguyên. Phủ định Nじゃない、い→くない. Câu hỏi thân mật thường dùng ngữ điệu. Không thêm だ sau tính từ い: 寒いだ là sai."
+      },
+      {
+        "id": "20-word-school",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “trường học”.",
+        "answers": [
+          "学校",
+          "がっこう"
+        ],
+        "explanation": "学校（がっこう）: trường học. 学校へ行きます。 — Tôi đến trường.",
+        "illustration": 6
+      },
+      {
+        "id": "20-word-cold",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “lạnh (thời tiết)”.",
+        "answers": [
+          "寒い",
+          "さむい"
+        ],
+        "explanation": "寒い（さむい）: lạnh (thời tiết). きょうは寒いです。 — Hôm nay trời lạnh.",
+        "illustration": 15
+      },
+      {
+        "id": "20-word-coffee",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “cà phê”.",
+        "answers": [
+          "コーヒー"
+        ],
+        "explanation": "コーヒー（コーヒー）: cà phê. コーヒーを飲みます。 — Tôi uống cà phê.",
+        "illustration": 23
+      },
+      {
+        "id": "20-reading",
+        "kind": "reading",
+        "passage": "友達：あした学校へ行く？リン：ううん、行かない。",
+        "prompt": "Linh có đi học ngày mai không?",
+        "choices": [
+          "Đã đi hôm qua",
+          "Không đi",
+          "Có đi"
+        ],
+        "answers": [
+          "Không đi"
+        ],
+        "explanation": "ううん và 行かない là phủ định thân mật."
+      },
+      {
+        "id": "20-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): 学校 / 行かない / へ",
+        "answers": [
+          "学校へ行かない。"
+        ],
+        "explanation": "Đáp án mẫu: 学校へ行かない。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "20-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/95ec5cbb2da56780.m4a",
+        "choices": [
+          "trường học",
+          "học sinh, sinh viên",
+          "sách",
+          "đồng hồ"
+        ],
+        "answers": [
+          "trường học"
+        ],
+        "explanation": "学校（がっこう）: trường học."
+      }
+    ],
+    "production": "Viết cùng một tin nhắn bằng cách lịch sự và thân mật.",
+    "source": "buoi28.pdf"
+  },
+  {
+    "slug": "n5-bai-21",
+    "title": "Bài 21 · Ý kiến và lời nói",
+    "japaneseTitle": "第21課",
+    "description": "Nói tôi nghĩ, trích lời và xác nhận",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Nói tôi nghĩ, trích lời và xác nhận. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Nói tôi nghĩ, trích lời và xác nhận",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-rain",
+        "expression": "雨",
+        "reading": "あめ",
+        "meaning": "mưa",
+        "illustration": 30,
+        "example": "雨が降っています。",
+        "exampleMeaning": "Trời đang mưa.",
+        "audio": "/n5/audio/559f2ae38222ca6a.m4a",
+        "exampleAudio": "/n5/audio/4c634ab89362c5d7.m4a"
+      },
+      {
+        "id": "n5-teacher",
+        "expression": "先生",
+        "reading": "せんせい",
+        "meaning": "giáo viên",
+        "illustration": 0,
+        "example": "先生は本を読みます。",
+        "exampleMeaning": "Giáo viên đọc sách.",
+        "audio": "/n5/audio/dacf3872be30e9ea.m4a",
+        "exampleAudio": "/n5/audio/d81e54f22c808640.m4a"
+      },
+      {
+        "id": "n5-read",
+        "expression": "読みます",
+        "reading": "よみます",
+        "meaning": "đọc",
+        "illustration": 31,
+        "example": "本を読みます。",
+        "exampleMeaning": "Tôi đọc sách.",
+        "audio": "/n5/audio/b4b8a8108efaa4e1.m4a",
+        "exampleAudio": "/n5/audio/042ecc71a0cd0b2a.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "普通形と思います",
+        "explanation": "Trước と思います dùng thể thông thường. Danh từ và tính từ な khẳng định hiện tại cần だ.",
+        "example": "あした雨が降ると思います。",
+        "translation": "Tôi nghĩ ngày mai trời mưa.",
+        "pitfall": "Không dùng 降りますと思います.",
+        "audio": "/n5/audio/5b0590e970612609.m4a"
+      },
+      {
+        "pattern": "～と言います／～でしょう",
+        "explanation": "と đánh dấu nội dung lời nói; có thể trích nguyên văn trong dấu ngoặc. でしょう dùng dự đoán hoặc xác nhận theo ngữ cảnh và ngữ điệu.",
+        "example": "先生は「本を読んでください」と言いました。",
+        "translation": "Giáo viên nói: Hãy đọc sách.",
+        "pitfall": "Phân biệt trích nguyên văn với chuyển nội dung sang thể thường.",
+        "audio": "/n5/audio/2cb91c30902a167a.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "21-grammar-0",
+        "kind": "recall",
+        "prompt": "Tôi nghĩ là sinh viên: 学生＿と思います。",
+        "answers": [
+          "だ"
+        ],
+        "explanation": "Trước と思います dùng thể thông thường. Danh từ và tính từ な khẳng định hiện tại cần だ. Không dùng 降りますと思います."
+      },
+      {
+        "id": "21-grammar-1",
+        "kind": "recall",
+        "prompt": "Trích lời: 「ありがとう」＿言いました。",
+        "answers": [
+          "と"
+        ],
+        "explanation": "と đánh dấu nội dung lời nói; có thể trích nguyên văn trong dấu ngoặc. でしょう dùng dự đoán hoặc xác nhận theo ngữ cảnh và ngữ điệu. Phân biệt trích nguyên văn với chuyển nội dung sang thể thường."
+      },
+      {
+        "id": "21-word-rain",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “mưa”.",
+        "answers": [
+          "雨",
+          "あめ"
+        ],
+        "explanation": "雨（あめ）: mưa. 雨が降っています。 — Trời đang mưa.",
+        "illustration": 30
+      },
+      {
+        "id": "21-word-teacher",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “giáo viên”.",
+        "answers": [
+          "先生",
+          "せんせい"
+        ],
+        "explanation": "先生（せんせい）: giáo viên. 先生は本を読みます。 — Giáo viên đọc sách.",
+        "illustration": 0
+      },
+      {
+        "id": "21-word-read",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “đọc”.",
+        "answers": [
+          "読みます",
+          "よみます"
+        ],
+        "explanation": "読みます（よみます）: đọc. 本を読みます。 — Tôi đọc sách.",
+        "illustration": 31
+      },
+      {
+        "id": "21-reading",
+        "kind": "reading",
+        "passage": "あしたは雨が降ると思います。でも、学校へ行きます。",
+        "prompt": "Người nói dự đoán điều gì?",
+        "choices": [
+          "Ngày mai trời mưa",
+          "Trường nghỉ học",
+          "Hôm nay trời mưa"
+        ],
+        "answers": [
+          "Ngày mai trời mưa"
+        ],
+        "explanation": "あした＋と思います là ý kiến về ngày mai; không nói nghỉ học."
+      },
+      {
+        "id": "21-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): 学生 / と / だ / 思います",
+        "answers": [
+          "学生だと思います。"
+        ],
+        "explanation": "Đáp án mẫu: 学生だと思います。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "21-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/559f2ae38222ca6a.m4a",
+        "choices": [
+          "học sinh, sinh viên",
+          "sách",
+          "trường học",
+          "mưa"
+        ],
+        "answers": [
+          "mưa"
+        ],
+        "explanation": "雨（あめ）: mưa."
+      }
+    ],
+    "production": "Nêu một ý kiến có lý do và thuật lại một lời nhắn.",
+    "source": "buoi30.pdf"
+  },
+  {
+    "slug": "n5-bai-22",
+    "title": "Bài 22 · Mệnh đề bổ nghĩa danh từ",
+    "japaneseTitle": "第22課",
+    "description": "Nói người làm gì, sách mua ở đâu",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Nói người làm gì, sách mua ở đâu. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Nói người làm gì, sách mua ở đâu",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-book",
+        "expression": "本",
+        "reading": "ほん",
+        "meaning": "sách",
+        "illustration": 3,
+        "example": "これは本です。",
+        "exampleMeaning": "Đây là sách.",
+        "audio": "/n5/audio/d2815033823ea835.m4a",
+        "exampleAudio": "/n5/audio/1f1d9b21d576b775.m4a"
+      },
+      {
+        "id": "n5-family",
+        "expression": "家族",
+        "reading": "かぞく",
+        "meaning": "gia đình",
+        "illustration": 34,
+        "example": "家族と行きます。",
+        "exampleMeaning": "Tôi đi cùng gia đình.",
+        "audio": "/n5/audio/3fa19a8a47e72c29.m4a",
+        "exampleAudio": "/n5/audio/b12abc0a20e80902.m4a"
+      },
+      {
+        "id": "n5-read",
+        "expression": "読みます",
+        "reading": "よみます",
+        "meaning": "đọc",
+        "illustration": 31,
+        "example": "本を読みます。",
+        "exampleMeaning": "Tôi đọc sách.",
+        "audio": "/n5/audio/b4b8a8108efaa4e1.m4a",
+        "exampleAudio": "/n5/audio/042ecc71a0cd0b2a.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "普通形＋N",
+        "explanation": "Mệnh đề đứng ngay trước danh từ nó bổ nghĩa. Đọc danh từ cuối trước, rồi hỏi nó như thế nào. Không thêm の giữa động từ và danh từ.",
+        "example": "これはきのう買った本です。",
+        "translation": "Đây là sách tôi mua hôm qua.",
+        "pitfall": "Không nói 買ったの本.",
+        "audio": "/n5/audio/21035111a9e19317.m4a"
+      },
+      {
+        "pattern": "主語が＋動詞＋N",
+        "explanation": "Trong mệnh đề bổ nghĩa, người thực hiện thường đánh dấu bằng が. Giữ trợ từ cần thiết bên trong mệnh đề.",
+        "example": "母が読んでいる本です。",
+        "translation": "Là sách mẹ đang đọc.",
+        "pitfall": "Không bỏ が của chủ ngữ bên trong mệnh đề rồi khiến vai trò bị lẫn.",
+        "audio": "/n5/audio/2a0e2ab8a1203014.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "22-grammar-0",
+        "kind": "recall",
+        "prompt": "Sách đã mua: 買った＿",
+        "answers": [
+          "本"
+        ],
+        "explanation": "Mệnh đề đứng ngay trước danh từ nó bổ nghĩa. Đọc danh từ cuối trước, rồi hỏi nó như thế nào. Không thêm の giữa động từ và danh từ. Không nói 買ったの本."
+      },
+      {
+        "id": "22-grammar-1",
+        "kind": "recall",
+        "prompt": "Sách mẹ đọc: 母＿読む本",
+        "answers": [
+          "が"
+        ],
+        "explanation": "Trong mệnh đề bổ nghĩa, người thực hiện thường đánh dấu bằng が. Giữ trợ từ cần thiết bên trong mệnh đề. Không bỏ が của chủ ngữ bên trong mệnh đề rồi khiến vai trò bị lẫn."
+      },
+      {
+        "id": "22-word-book",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “sách”.",
+        "answers": [
+          "本",
+          "ほん"
+        ],
+        "explanation": "本（ほん）: sách. これは本です。 — Đây là sách.",
+        "illustration": 3
+      },
+      {
+        "id": "22-word-family",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “gia đình”.",
+        "answers": [
+          "家族",
+          "かぞく"
+        ],
+        "explanation": "家族（かぞく）: gia đình. 家族と行きます。 — Tôi đi cùng gia đình.",
+        "illustration": 34
+      },
+      {
+        "id": "22-word-read",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “đọc”.",
+        "answers": [
+          "読みます",
+          "よみます"
+        ],
+        "explanation": "読みます（よみます）: đọc. 本を読みます。 — Tôi đọc sách.",
+        "illustration": 31
+      },
+      {
+        "id": "22-reading",
+        "kind": "reading",
+        "passage": "これは母がきのう買った本です。わたしはまだ読んでいません。",
+        "prompt": "Ai đã mua sách?",
+        "choices": [
+          "Người nói",
+          "Giáo viên",
+          "Mẹ"
+        ],
+        "answers": [
+          "Mẹ"
+        ],
+        "explanation": "母が nằm trong mệnh đề bổ nghĩa 買った本; người nói chưa đọc."
+      },
+      {
+        "id": "22-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): 本 / 母 / 読む / が",
+        "answers": [
+          "母が読む本"
+        ],
+        "explanation": "Đáp án mẫu: 母が読む本 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "22-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/d2815033823ea835.m4a",
+        "choices": [
+          "trường học",
+          "đồng hồ",
+          "sách",
+          "học sinh, sinh viên"
+        ],
+        "answers": [
+          "sách"
+        ],
+        "explanation": "本（ほん）: sách."
+      }
+    ],
+    "production": "Miêu tả một người trong gia đình và một cuốn sách bằng mệnh đề.",
+    "source": "buoi31.pdf"
+  },
+  {
+    "slug": "n5-bai-23",
+    "title": "Bài 23 · Khi nào và kết quả tự nhiên",
+    "japaneseTitle": "第23課",
+    "description": "Phân biệt とき và と",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Phân biệt とき và と. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Phân biệt とき và と",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-bridge",
+        "expression": "橋",
+        "reading": "はし",
+        "meaning": "cầu",
+        "illustration": 33,
+        "example": "橋を渡ります。",
+        "exampleMeaning": "Tôi qua cầu.",
+        "audio": "/n5/audio/def18b1f5631a74e.m4a",
+        "exampleAudio": "/n5/audio/065597c4a6f919e9.m4a"
+      },
+      {
+        "id": "n5-walk",
+        "expression": "歩きます",
+        "reading": "あるきます",
+        "meaning": "đi bộ",
+        "illustration": 35,
+        "example": "毎日歩きます。",
+        "exampleMeaning": "Tôi đi bộ mỗi ngày.",
+        "audio": "/n5/audio/e1d13178d4734ab0.m4a",
+        "exampleAudio": "/n5/audio/1c6d346ae48dfef4.m4a"
+      },
+      {
+        "id": "n5-school",
+        "expression": "学校",
+        "reading": "がっこう",
+        "meaning": "trường học",
+        "illustration": 6,
+        "example": "学校へ行きます。",
+        "exampleMeaning": "Tôi đến trường.",
+        "audio": "/n5/audio/95ec5cbb2da56780.m4a",
+        "exampleAudio": "/n5/audio/716938e17fa5c3dc.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "Vる・Vたとき／Nのとき／な＋とき",
+        "explanation": "とき chỉ thời điểm. Vるとき thường khi hành động chưa hoàn tất; Vたとき khi đã hoàn tất trong ngữ cảnh. Danh từ dùng の; tính từ な dùng な.",
+        "example": "家へ帰るとき、パンを買いました。",
+        "translation": "Trên đường về nhà tôi đã mua bánh mì.",
+        "pitfall": "Không máy móc dịch Vるとき là trước mọi hành động; xét tình huống.",
+        "audio": "/n5/audio/5f3c9be02866c155.m4a"
+      },
+      {
+        "pattern": "普通形と／場所を移動する",
+        "explanation": "と nối điều kiện với kết quả tự nhiên, thao tác máy hoặc chỉ đường. Tránh lời mời, mệnh lệnh ở vế sau trong mẫu này. を còn chỉ không gian đi qua.",
+        "example": "この橋を渡ると、学校があります。",
+        "translation": "Qua cầu này thì có trường học.",
+        "pitfall": "Đi qua cầu dùng を; không phải tân ngữ trong nghĩa thông thường.",
+        "audio": "/n5/audio/36f30de6b951cabc.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "23-grammar-0",
+        "kind": "recall",
+        "prompt": "Khi còn là sinh viên: 学生＿とき",
+        "answers": [
+          "の"
+        ],
+        "explanation": "とき chỉ thời điểm. Vるとき thường khi hành động chưa hoàn tất; Vたとき khi đã hoàn tất trong ngữ cảnh. Danh từ dùng の; tính từ な dùng な. Không máy móc dịch Vるとき là trước mọi hành động; xét tình huống."
+      },
+      {
+        "id": "23-grammar-1",
+        "kind": "recall",
+        "prompt": "Qua cầu: 橋＿渡ります。",
+        "answers": [
+          "を"
+        ],
+        "explanation": "と nối điều kiện với kết quả tự nhiên, thao tác máy hoặc chỉ đường. Tránh lời mời, mệnh lệnh ở vế sau trong mẫu này. を còn chỉ không gian đi qua. Đi qua cầu dùng を; không phải tân ngữ trong nghĩa thông thường."
+      },
+      {
+        "id": "23-word-bridge",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “cầu”.",
+        "answers": [
+          "橋",
+          "はし"
+        ],
+        "explanation": "橋（はし）: cầu. 橋を渡ります。 — Tôi qua cầu.",
+        "illustration": 33
+      },
+      {
+        "id": "23-word-walk",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “đi bộ”.",
+        "answers": [
+          "歩きます",
+          "あるきます"
+        ],
+        "explanation": "歩きます（あるきます）: đi bộ. 毎日歩きます。 — Tôi đi bộ mỗi ngày.",
+        "illustration": 35
+      },
+      {
+        "id": "23-word-school",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “trường học”.",
+        "answers": [
+          "学校",
+          "がっこう"
+        ],
+        "explanation": "学校（がっこう）: trường học. 学校へ行きます。 — Tôi đến trường.",
+        "illustration": 6
+      },
+      {
+        "id": "23-reading",
+        "kind": "reading",
+        "passage": "家へ帰るとき、パンを買いました。家へ帰ってから、食べました。",
+        "prompt": "Người này mua bánh khi nào?",
+        "choices": [
+          "Trước khi đi học",
+          "Trên đường về nhà",
+          "Sau khi về đến nhà"
+        ],
+        "answers": [
+          "Trên đường về nhà"
+        ],
+        "explanation": "帰るとき đặt mua bánh trong lúc đang về; ăn diễn ra sau khi về."
+      },
+      {
+        "id": "23-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): と / 渡る / 学校 / 橋 / が / あります / を",
+        "answers": [
+          "橋を渡ると、学校があります。",
+          "橋を渡ると学校があります。"
+        ],
+        "explanation": "Đáp án mẫu: 橋を渡ると、学校があります。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "23-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/def18b1f5631a74e.m4a",
+        "choices": [
+          "trường học",
+          "cầu",
+          "học sinh, sinh viên",
+          "sách"
+        ],
+        "answers": [
+          "cầu"
+        ],
+        "explanation": "橋（はし）: cầu."
+      }
+    ],
+    "production": "Chỉ đường đến trường và kể một việc làm trên đường về nhà.",
+    "source": "buoi32.pdf"
+  },
+  {
+    "slug": "n5-bai-24",
+    "title": "Bài 24 · Giúp đỡ và nhận giúp đỡ",
+    "japaneseTitle": "第24課",
+    "description": "Phân biệt あげる・くれる・もらう",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Phân biệt あげる・くれる・もらう. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Phân biệt あげる・くれる・もらう",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-gift",
+        "expression": "プレゼント",
+        "reading": "プレゼント",
+        "meaning": "quà tặng",
+        "illustration": 13,
+        "example": "友達にプレゼントをあげます。",
+        "exampleMeaning": "Tôi tặng quà cho bạn.",
+        "audio": "/n5/audio/d4db811228adab15.m4a",
+        "exampleAudio": "/n5/audio/79cb2153eb738aa2.m4a"
+      },
+      {
+        "id": "n5-book",
+        "expression": "本",
+        "reading": "ほん",
+        "meaning": "sách",
+        "illustration": 3,
+        "example": "これは本です。",
+        "exampleMeaning": "Đây là sách.",
+        "audio": "/n5/audio/d2815033823ea835.m4a",
+        "exampleAudio": "/n5/audio/1f1d9b21d576b775.m4a"
+      },
+      {
+        "id": "n5-family",
+        "expression": "家族",
+        "reading": "かぞく",
+        "meaning": "gia đình",
+        "illustration": 34,
+        "example": "家族と行きます。",
+        "exampleMeaning": "Tôi đi cùng gia đình.",
+        "audio": "/n5/audio/3fa19a8a47e72c29.m4a",
+        "exampleAudio": "/n5/audio/b12abc0a20e80902.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "Vてあげます／Vてくれます",
+        "explanation": "てあげます nhìn người làm giúp người khác; てくれます nhìn người khác làm giúp mình hoặc phía mình. Với người trên, tránh nói thẳng てあげます vì có thể nghe như ban ơn.",
+        "example": "友達が本を読んでくれました。",
+        "translation": "Bạn đã đọc sách giúp tôi.",
+        "pitfall": "くれる: người giúp làm chủ ngữ; không phải tôi làm giúp bạn.",
+        "audio": "/n5/audio/ff6fbcd028366606.m4a"
+      },
+      {
+        "pattern": "人にVてもらいます",
+        "explanation": "Người nhận giúp đỡ làm chủ ngữ; に chỉ người thực hiện việc giúp. Cùng sự việc có thể đổi góc nhìn sang てくれます.",
+        "example": "わたしは友達に本を読んでもらいました。",
+        "translation": "Tôi được bạn đọc sách giúp.",
+        "pitfall": "Không suy ra もらう luôn là đã nhờ trước; ngữ cảnh quyết định.",
+        "audio": "/n5/audio/9df2909583de9d06.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "24-grammar-0",
+        "kind": "recall",
+        "prompt": "Bạn tặng tôi sách: 友達が本を＿。",
+        "answers": [
+          "くれます"
+        ],
+        "explanation": "てあげます nhìn người làm giúp người khác; てくれます nhìn người khác làm giúp mình hoặc phía mình. Với người trên, tránh nói thẳng てあげます vì có thể nghe như ban ơn. くれる: người giúp làm chủ ngữ; không phải tôi làm giúp bạn."
+      },
+      {
+        "id": "24-grammar-1",
+        "kind": "recall",
+        "prompt": "Được bạn đọc giúp: 友達＿読んでもらいます。",
+        "answers": [
+          "に"
+        ],
+        "explanation": "Người nhận giúp đỡ làm chủ ngữ; に chỉ người thực hiện việc giúp. Cùng sự việc có thể đổi góc nhìn sang てくれます. Không suy ra もらう luôn là đã nhờ trước; ngữ cảnh quyết định."
+      },
+      {
+        "id": "24-word-gift",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “quà tặng”.",
+        "answers": [
+          "プレゼント"
+        ],
+        "explanation": "プレゼント（プレゼント）: quà tặng. 友達にプレゼントをあげます。 — Tôi tặng quà cho bạn.",
+        "illustration": 13
+      },
+      {
+        "id": "24-word-book",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “sách”.",
+        "answers": [
+          "本",
+          "ほん"
+        ],
+        "explanation": "本（ほん）: sách. これは本です。 — Đây là sách.",
+        "illustration": 3
+      },
+      {
+        "id": "24-word-family",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “gia đình”.",
+        "answers": [
+          "家族",
+          "かぞく"
+        ],
+        "explanation": "家族（かぞく）: gia đình. 家族と行きます。 — Tôi đi cùng gia đình.",
+        "illustration": 34
+      },
+      {
+        "id": "24-reading",
+        "kind": "reading",
+        "passage": "友達が本を読んでくれました。わたしは友達に花をあげました。",
+        "prompt": "Ai đã đọc sách giúp?",
+        "choices": [
+          "Bạn",
+          "Người nói",
+          "Mẹ"
+        ],
+        "answers": [
+          "Bạn"
+        ],
+        "explanation": "友達が là chủ thể của 読んでくれました, giúp người nói."
+      },
+      {
+        "id": "24-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): 読んで / 友達 / くれました / 本 / が / を",
+        "answers": [
+          "友達が本を読んでくれました。"
+        ],
+        "explanation": "Đáp án mẫu: 友達が本を読んでくれました。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "24-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/d4db811228adab15.m4a",
+        "choices": [
+          "quà tặng",
+          "học sinh, sinh viên",
+          "sách",
+          "trường học"
+        ],
+        "answers": [
+          "quà tặng"
+        ],
+        "explanation": "プレゼント（プレゼント）: quà tặng."
+      }
+    ],
+    "production": "Kể cùng một việc giúp đỡ bằng てくれる và てもらう.",
+    "source": "buoi33.pdf"
+  },
+  {
+    "slug": "n5-bai-25",
+    "title": "Bài 25 · Nếu và dù có",
+    "japaneseTitle": "第25課",
+    "description": "Nói điều kiện và kết quả trái dự đoán",
+    "level": "N5",
+    "estimatedMinutes": 25,
+    "itemCount": 3,
+    "status": "ready",
+    "progress": 0,
+    "intro": "Nói điều kiện và kết quả trái dự đoán. Học qua một tình huống nhỏ, giải thích được vì sao dùng mẫu câu, rồi tự tạo câu về chính bạn.",
+    "learningPoints": [
+      "Nói điều kiện và kết quả trái dự đoán",
+      "Tự nhớ từ trước khi xem nghĩa",
+      "Tự tạo câu và sửa lỗi thường gặp"
+    ],
+    "vocabulary": [
+      {
+        "id": "n5-rain",
+        "expression": "雨",
+        "reading": "あめ",
+        "meaning": "mưa",
+        "illustration": 30,
+        "example": "雨が降っています。",
+        "exampleMeaning": "Trời đang mưa.",
+        "audio": "/n5/audio/559f2ae38222ca6a.m4a",
+        "exampleAudio": "/n5/audio/4c634ab89362c5d7.m4a"
+      },
+      {
+        "id": "n5-school",
+        "expression": "学校",
+        "reading": "がっこう",
+        "meaning": "trường học",
+        "illustration": 6,
+        "example": "学校へ行きます。",
+        "exampleMeaning": "Tôi đến trường.",
+        "audio": "/n5/audio/95ec5cbb2da56780.m4a",
+        "exampleAudio": "/n5/audio/716938e17fa5c3dc.m4a"
+      },
+      {
+        "id": "n5-book",
+        "expression": "本",
+        "reading": "ほん",
+        "meaning": "sách",
+        "illustration": 3,
+        "example": "これは本です。",
+        "exampleMeaning": "Đây là sách.",
+        "audio": "/n5/audio/d2815033823ea835.m4a",
+        "exampleAudio": "/n5/audio/1f1d9b21d576b775.m4a"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "普通形過去＋ら",
+        "explanation": "Động từ thể た＋ら; tính từ い→かったら; tính từ な và danh từ→だったら. たら dùng giả định hoặc sau khi đạt mốc, vế sau có thể là lời mời, yêu cầu.",
+        "example": "雨が降ったら、家で本を読みます。",
+        "translation": "Nếu trời mưa, tôi đọc sách ở nhà.",
+        "pitfall": "だったら dùng với danh từ/な; không dùng 高いだったら.",
+        "audio": "/n5/audio/0a4bf092b039d94e.m4a"
+      },
+      {
+        "pattern": "Vても／い→くても／N・な→でも",
+        "explanation": "ても nói dù điều kiện xảy ra thì kết quả vẫn vậy, thường khác điều mong đợi. Động từ て＋も; tính từ い bỏ い thêm くても; N・な＋でも.",
+        "example": "雨が降っても、学校へ行きます。",
+        "translation": "Dù trời mưa tôi vẫn đến trường.",
+        "pitfall": "たら đặt điều kiện; ても nhấn mạnh điều kiện không làm đổi kết quả.",
+        "audio": "/n5/audio/4beb57784f0cc5b5.m4a"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "25-grammar-0",
+        "kind": "recall",
+        "prompt": "Nếu lạnh: 寒＿",
+        "answers": [
+          "かったら"
+        ],
+        "explanation": "Động từ thể た＋ら; tính từ い→かったら; tính từ な và danh từ→だったら. たら dùng giả định hoặc sau khi đạt mốc, vế sau có thể là lời mời, yêu cầu. だったら dùng với danh từ/な; không dùng 高いだったら."
+      },
+      {
+        "id": "25-grammar-1",
+        "kind": "recall",
+        "prompt": "Dù đắt: 高＿",
+        "answers": [
+          "くても"
+        ],
+        "explanation": "ても nói dù điều kiện xảy ra thì kết quả vẫn vậy, thường khác điều mong đợi. Động từ て＋も; tính từ い bỏ い thêm くても; N・な＋でも. たら đặt điều kiện; ても nhấn mạnh điều kiện không làm đổi kết quả."
+      },
+      {
+        "id": "25-word-rain",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “mưa”.",
+        "answers": [
+          "雨",
+          "あめ"
+        ],
+        "explanation": "雨（あめ）: mưa. 雨が降っています。 — Trời đang mưa.",
+        "illustration": 30
+      },
+      {
+        "id": "25-word-school",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “trường học”.",
+        "answers": [
+          "学校",
+          "がっこう"
+        ],
+        "explanation": "学校（がっこう）: trường học. 学校へ行きます。 — Tôi đến trường.",
+        "illustration": 6
+      },
+      {
+        "id": "25-word-book",
+        "kind": "vocabulary",
+        "prompt": "Nhìn hình, tự nhớ từ tiếng Nhật có nghĩa “sách”.",
+        "answers": [
+          "本",
+          "ほん"
+        ],
+        "explanation": "本（ほん）: sách. これは本です。 — Đây là sách.",
+        "illustration": 3
+      },
+      {
+        "id": "25-reading",
+        "kind": "reading",
+        "passage": "雨が降っても、学校へ行きます。寒かったら、コーヒーを飲みます。",
+        "prompt": "Nếu trời mưa, người này có đi học không?",
+        "choices": [
+          "Không đi",
+          "Chỉ đi khi trời ấm",
+          "Vẫn đi"
+        ],
+        "answers": [
+          "Vẫn đi"
+        ],
+        "explanation": "ても cho biết mưa không làm đổi quyết định đi học."
+      },
+      {
+        "id": "25-order",
+        "kind": "order",
+        "prompt": "Sắp xếp thành câu/cụm từ (gõ toàn bộ): 学校 / 降って / 行きます / も / 雨 / が / へ",
+        "answers": [
+          "雨が降っても、学校へ行きます。"
+        ],
+        "explanation": "Đáp án mẫu: 雨が降っても、学校へ行きます。 Đối chiếu thứ tự và trợ từ với phần Hiểu mẫu câu."
+      },
+      {
+        "id": "25-listening",
+        "kind": "listening",
+        "prompt": "Nghe từ tiếng Nhật và chọn nghĩa. Thử nhắc lại trước khi chọn.",
+        "audio": "/n5/audio/559f2ae38222ca6a.m4a",
+        "choices": [
+          "học sinh, sinh viên",
+          "sách",
+          "trường học",
+          "mưa"
+        ],
+        "answers": [
+          "mưa"
+        ],
+        "explanation": "雨（あめ）: mưa."
+      }
+    ],
+    "production": "Viết hai kế hoạch: nếu trời mưa và dù trời mưa.",
+    "source": "buoi34.pdf"
+  }
+]

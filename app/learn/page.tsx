@@ -31,6 +31,13 @@ export default async function LearnPage() {
           </p>
         </header>
 
+        <Link href="/n5" className="mt-7 block rounded-[24px] border border-teal-200 bg-teal-50 p-6">
+          <p className="text-xs font-bold tracking-wide text-teal-700">GIÁO TRÌNH CỦA BẠN</p>
+          <h2 className="mt-2 text-xl font-semibold text-teal-950">25 bài N5 · Học sâu, nhớ lâu</h2>
+          <p className="mt-2 text-sm leading-6 text-stone-600">Giải thích dễ hiểu, từ vựng có hình và phát âm, bài tập tự nhớ và lịch ôn cách quãng.</p>
+          <p className="mt-3 text-sm font-bold text-teal-800">Mở giáo trình →</p>
+        </Link>
+
         <div className="mt-9 space-y-5">
           {units.map((unit, unitIndex) => (
             <section

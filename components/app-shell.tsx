@@ -26,7 +26,7 @@ const items = [
 ];
 
 function isActive(pathname: string, href: string) {
-  return href === "/" ? pathname === "/" : pathname.startsWith(href);
+  return href === "/" ? pathname === "/" : pathname.startsWith(href) || (href === "/learn" && pathname.startsWith("/n5"));
 }
 
 export function AppShell({ children }: { children: React.ReactNode }) {
@@ -83,6 +83,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
           >
             <SignIn className="size-4" /> Đăng nhập để đồng bộ
           </Link>
+          <Link href="/account" className="mt-3 block text-xs font-bold text-teal-800">Tài khoản / Đăng xuất</Link>
         </div>
       </aside>
 

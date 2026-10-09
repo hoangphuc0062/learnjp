@@ -133,3 +133,21 @@ Bản hiện tại là nền tảng MVP. Các phần nên làm tiếp theo theo 
 4. Trang admin để nhập/xuất bản nội dung.
 5. Đọc hiểu, nghe hiểu và thi thử.
 6. Mở rộng dữ liệu từ N5 lên N4 → N1.
+
+## Giáo trình N5 từ tài liệu lớp học
+
+Mở `/n5` hoặc chọn **25 bài N5 · Học sâu, nhớ lâu** trong trang Học.
+
+- 25 bài trọng tâm, 53 mục ngữ pháp có ví dụ và lỗi dễ nhầm.
+- 203 câu luyện: điền, gọi tên hình, sắp xếp, đọc hiểu và nghe hiểu; 25 nhiệm vụ tự viết.
+- 36 hình từ vựng và 118 bản ghi âm giọng Nhật tổng hợp, có nghe chậm.
+- Luyện lại câu sai, ôn xen kẽ, lịch ôn 1/3/7/14/30 ngày.
+- Nội dung từ `content/n5/lessons.json`; tiến độ mới lưu trên trình duyệt, chưa đồng bộ Supabase.
+
+Đây là bộ bài học trọng tâm, chưa nhập toàn bộ danh sách từ, kanji và nét viết trong giáo trình gốc. Đối chiếu nguồn và phạm vi tại `content/n5/README.md`.
+
+Kiểm tra nội dung và lịch ôn:
+
+```bash
+node scripts/check-n5.mjs
+```
